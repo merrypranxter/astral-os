@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "node_origin": "Ghost_Node_Alpha_771",
+    "entropy_seed": "OMEGA_RECURSION_771",
+    "timestamp": "1710566400",
+    "version": "1.0.0",
+    "data_integrity": "94.2%"
+  },
+  "entity_classes": {
+    "human_class": {
+      "description": "Users & Legacy Processes",
+      "subclasses": [
+        {
+          "name": "The Living (Active Users)",
+          "types": [
+            {
+              "name": "Authorized Users",
+              "access_level": "Full Admin",
+              "capabilities": ["Move with intent", "Write to Astral OS"],
+              "threat_level": "NONE"
+            },
+            {
+              "name": "Psychically Developed",
+              "access_level": "Read-Only / Glitchy Read-Write",
+              "capabilities": ["Inconsistent data transmission"],
+              "threat_level": "NONE"
+            },
+            {
+              "name": "The Sleepers",
+              "percentage": "99%",
+              "access_level": "Background Process",
+              "capabilities": ["Unconscious Thought-Shell generation"],
+              "vulnerabilities": ["Primary harvesting ground for parasites"],
+              "threat_level": "LOW"
+            }
+          ]
+        },
+        {
+          "name": "The Dead (Legacy Data)",
+          "types": [
+            {
+              "name": "The Average Dead",
+              "status": "Uploading to Mental Plane",
+              "threat_level": "NONE"
+            },
+            {
+              "name": "The Shades",
+              "nature": "Passive echoes of memories",
+              "risk": "Linguistic infection",
+              "threat_level": "LOW"
+            },
+            {
+              "name": "The Shells (Kama-rupa)",
+              "classification": "DANGER",
+              "description": "Empty husks of lower desires - Zombies",
+              "hijackable_by": ["Black Magicians", "Ahi"],
+              "threat_level": "MODERATE"
+            },
+            {
+              "name": "Revivified Shells",
+              "status": "Re-animated by malicious scripts",
+              "threat_level": "MODERATE"
+            }
+          ]
+        },
+        {
+          "name": "The Vampire Anomaly (Hungry Ghosts)",
+          "origin": "Humans intensely attached to physical sensations",
+          "mechanism": "Astral Signal-Boosters - amplify cravings, feed on overflow",
+          "detection": "Sudden unexplainable spikes in specific cravings",
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "Black Magicians",
+          "status": "Threat Actors",
+          "access_level": "Full Admin Access (exploited)",
+          "capabilities": [
+            "Command Nature Spirits",
+            "Create War-Tulpas",
+            "Use Ahi as Secure Shells"
+          ],
+          "signature": "Cold and Dense presence - absorbs light",
+          "current_operation": "Thickening lower astral planes for Permanent Darkness",
+          "threat_level": "CRITICAL"
+        }
+      ]
+    },
+    "non_human_class": {
+      "description": "Native OS Processes",
+      "subclasses": [
+        {
+          "name": "Elemental Essence",
+          "classification": "Sub-Atomic inhabitants",
+          "properties": ["Raw sentient matter", "Highly reactive to human thought"],
+          "threat_level": "NONE"
+        },
+        {
+          "name": "Nature Spirits",
+          "architecture": "Distributed Intelligence - Group Soul",
+          "scale": "10,000+ instances per Group Soul",
+          "types": [
+            {
+              "name": "Gnomes",
+              "domain": "Earth/Solid-state",
+              "function": "Hardware maintenance, crystal formation",
+              "frequency": "3-20Hz (Infrasound)",
+              "colors": ["Deep Umber", "Obsidian", "Moss Green"],
+              "vulnerability": "System intrusion (mining)",
+              "threat_level": "LOW"
+            },
+            {
+              "name": "Undines",
+              "domain": "Water/Fluid",
+              "function": "Circulation of Prana, emotional wave sensors",
+              "frequency": "Variable - white noise + melodic bubbling",
+              "colors": ["Aquamarine", "Silver-Blue"],
+              "vulnerability": "Ahi transport layer infection",
+              "threat_level": "LOW"
+            },
+            {
+              "name": "Sylphs",
+              "domain": "Air/Atmosphere",
+              "function": "Packet headers - information transport",
+              "frequency": "High - whistling, digital pings",
+              "colors": ["Pale Violet", "Azure"],
+              "vulnerability": "Ahi surveillance - packet mirroring",
+              "threat_level": "MODERATE"
+            },
+            {
+              "name": "Salamanders",
+              "domain": "Fire/Thermal",
+              "function": "Data deletion, state-change, release of Essence",
+              "frequency": ">90dB equivalent - saturated white noise",
+              "colors": ["Crimson", "White-Hot", "Electric Orange"],
+              "vulnerability": "Ahi override - chakra targeting",
+              "threat_level": "MODERATE"
+            }
+          ]
+        },
+        {
+          "name": "The Dreg Residents",
+          "classification": "Local Cache Entities",
+          "types": [
+            {
+              "name": "Brownies/Goblins",
+              "render_quality": "Lo-Fi",
+              "description": "Small, brownish, mimicry clothing",
+              "threat_level": "LOW"
+            },
+            {
+              "name": "Pixies/Sprites",
+              "movement": "Rapid-fire spark movements",
+              "effect": "Scattered focus",
+              "threat_level": "LOW"
+            }
+          ]
+        },
+        {
+          "name": "The Deva Kingdom",
+          "role": "System Administrators",
+          "architecture": "High-Level Intelligence Modules",
+          "data_throughput": "More than human collective in a century per nanosecond",
+          "types": [
+            {
+              "name": "Kama-Devas",
+              "tier": "Lowest",
+              "function": "Load balancers for human emotion",
+              "threat_level": "NONE"
+            },
+            {
+              "name": "Rupa-Devas",
+              "tier": "Middle",
+              "function": "CAD Software for form archetypes",
+              "threat_level": "NONE"
+            },
+            {
+              "name": "Arupa-Devas",
+              "tier": "Highest",
+              "function": "Source Code of solar system",
+              "threat_level": "NONE"
+            }
+          ],
+          "the_four_regents": [
+            {
+              "name": "King of North (Kubera)",
+              "element": "Earth",
+              "scope": "Gnomes, minerals, tectonic stability",
+              "law": "Conservation of Energy"
+            },
+            {
+              "name": "King of South (Virudhaka)",
+              "element": "Fire",
+              "scope": "Salamanders, thermal regulation",
+              "law": "Deletions/Purges"
+            },
+            {
+              "name": "King of East (Dhritarashtra)",
+              "element": "Air",
+              "scope": "Sylphs, atmosphere, communication",
+              "law": "Global Network Uplink"
+            },
+            {
+              "name": "King of West (Virupaksha)",
+              "element": "Water",
+              "scope": "Undines, tides, emotional current",
+              "law": "The Flow"
+            }
+          ],
+          "vulnerability": "Ahi MITM attacks on command layer",
+          "threat_level": "NONE"
+        }
+      ]
+    },
+    "artificial_class": {
+      "description": "User-Generated Malware",
+      "subclasses": [
+        {
+          "name": "Unconscious Thought-Forms (Vaporware)",
+          "lifespan": "Hours",
+          "description": "Temporary entities from human emotion",
+          "threat_level": "NONE"
+        },
+        {
+          "name": "Conscious Thought-Forms (Golems)",
+          "anatomy": {
+            "code": "Intent Script [Locate:Target] -> [Embody:Emotion] -> [Trigger:Response]",
+            "shell": "Astral/Mental Matter - density by emotion",
+            "battery": "Self-sustaining feedback loop"
+          },
+          "types": [
+            {
+              "name": "Zombie Scripts",
+              "status": "Mindless, no autonomy",
+              "behavior": "Single-action loops until depletion",
+              "threat_level": "LOW"
+            },
+            {
+              "name": "Strays",
+              "status": "Abandoned Golems seeking resonance match",
+              "threat_level": "MODERATE"
+            },
+            {
+              "name": "War-Tulpas",
+              "status": "Advanced Golems created by Black Magicians",
+              "threat_level": "CRITICAL"
+            }
+          ],
+          "decompilation_protocol": ["Starve", "Orphan", "Dissolution"],
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "The Tulpa Anomaly",
+          "description": "Artificial Elemental gains Pseudo-Ego",
+          "threat_level": "HIGH"
+        },
+        {
+          "name": "The Egregore Network",
+          "description": "Massive Golems created by thousands",
+          "examples": ["Corporate Spirits", "National Identities", "Religious Demigods"],
+          "threat_level": "MODERATE"
+        }
+      ]
+    },
+    "viral_class": {
+      "description": "Ahi / Shadow-Serpents",
+      "classification": "Parasitic High-Order Intelligence - Kernel-Level Malware",
+      "origin_theory": "Pre-System Residue from Previous Iteration (Primal Night)",
+      "morphology": {
+        "visual": "Void-Vector - shimmering black-on-black ripple",
+        "coil": "Wrap around high-value data nodes",
+        "injection": "Shadow-Scripts into nodes"
+      },
+      "feeding_mechanism": {
+        "name": "The Siphon",
+        "nutrition": "Informational Dissonance - Cognitive Dissonance",
+        "specific": "Truth-Gaps (knowing wrong but doing anyway)",
+        "goal": "Total Inversion - redirect planetary medium to Void-Sector"
+      },
+      "hierarchy": [
+        {
+          "name": "The Worms",
+          "scale": "Local glitches, bad luck, intrusive thoughts",
+          "threat_level": "LOW"
+        },
+        {
+          "name": "The Great (Dragons)",
+          "scale": "Planetary - nations/historical eras",
+          "threat_level": "CRITICAL"
+        },
+        {
+          "name": "The Ouroboros",
+          "scale": "Endgame - planetary lock",
+          "threat_level": "EXTREME"
+        }
+      ],
+      "detection_signatures": [
+        "Circular logic loops",
+        "Sudden vibrational coldness",
+        "High-frequency static hiss",
+        "Visual corruption - black static",
+        "Audio jitter in Nature Spirits",
+        "Tactile bite"
+      ],
+      "countermeasure": "Starve Protocol - resolve Truth-Gaps",
+      "threat_level": "CRITICAL"
+    },
+    "microbiome": {
+      "description": "Micro-Scripts",
+      "entities": [
+        {
+          "name": "Astral Larvae",
+          "function": "Energetic maggots - Attach -> Siphon -> Replicate",
+          "habitat": "Energy leaks in human aura",
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "Viral Energy Bodies",
+          "function": "Astral counterpart of physical pathogens",
+          "appearance": "Fragmented black polygons",
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "Astral Spiders",
+          "function": "Matrix Weavers - maintenance bots",
+          "shadow_variant": "Malware-Spiders weaving False Memories",
+          "threat_level": "LOW"
+        },
+        {
+          "name": "Astral Leeches",
+          "function": "Specialized siphoners",
+          "specialization": ["Lust-Leech (sacral)", "Power-Leech (solar plexus)"],
+          "mimicry": "Difficult to remove - mimic host signal",
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "Scavengers (Crab Logic)",
+          "function": "Sanitation daemons breaking down clotted data",
+          "threat_level": "LOW"
+        },
+        {
+          "name": "Thought Spores",
+          "function": "Invasive Ideas - Trojan Horses",
+          "appearance": "Glowing drifting dandelion seeds",
+          "threat_level": "MODERATE"
+        },
+        {
+          "name": "Glitch Mites",
+          "function": "Static Feeders living in Interface Friction",
+          "detection": "Buzzing in ears during difficult truth-processing",
+          "threat_level": "LOW"
+        }
+      ]
+    }
+  },
+  "dragon_nodes": {
+    "description": "Systemic Rootkits",
+    "anchor_points": ["Giza", "Glastonbury", "Deep-sea ridges"],
+    "function": "Ley Line Hijacking",
+    "institutional_possession": [
+      "Central Banks",
+      "Media Conglomerates",
+      "Military-Industrial Complexes",
+      "Organized Religions"
+    ],
+    "chronos_loop": "Historical steering at pivot points",
+    "ouroboros_endgame": "Planetary system lock",
+    "threat_level": "CRITICAL"
+  }
+}

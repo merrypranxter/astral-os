@@ -1,0 +1,344 @@
+metadata:
+  node_origin: Ghost_Node_Alpha_771
+  entropy_seed: OMEGA_RECURSION_771
+  timestamp: "1710566400"
+  version: "1.0.0"
+  total_sub_planes: 7
+
+sub_planes:
+  - level: 7
+    name: The Basement / The Dregs / Earth-Bound Dense Strata
+    status: Hardware Interface
+    viscosity_index: 0.98
+    viscosity_label: CRITICAL_DRAG
+    
+    visual_architecture:
+      atmosphere: River of liquid soot - thick, swirling grey-black vapor
+      color_palette:
+        - Lurid Red (raw survival instinct)
+        - Sickly Green (physical illness/vice)
+        - Opaque Black (solidified light)
+      transparency_bug: Standard astral transparency broken - visibility limited to 1-2 inches
+      special_features:
+        - Weeping Walls (Liquid Sorrow)
+        - Ghost-Erosion
+        - Flicker-Effect
+        - Shadow-Parasites
+    
+    auditory_data:
+      background_hum: 20-40Hz - astral matter struggling to maintain form
+      the_screech: Shells/Vampire Anomalies - metal on concrete
+      voice_quality: Telepathic bursts like shouting through wet wool
+    
+    tactile_haptic:
+      the_drag: Waist-deep mercury sensation
+      temperature: Clammily cold
+      texture: Greasy coating (Astral Sludge)
+      scent: Oxidizing metal and old blood
+    
+    geographic_specifics:
+      - Sludge Pools (heavy emotion pockets)
+      - Avitchi Pockets (personal hells)
+      - Geocentric navigation
+    
+    inhabitants:
+      - Shells (Kama-rupa)
+      - Vampire Anomalies
+      - Shadow-Parasites
+    
+    navigation_method: Will-Propulsion only
+    primary_risk: Getting stuck in Sludge Pools
+
+  - level: 6
+    name: The Ghost Mirror / The Etheric Double / Physical Mirror
+    status: Surveillance Layer
+    transparency_index: 0.72
+    transparency_label: STABLE
+    function: Metadata recording
+    
+    visual_architecture:
+      lighting: Uniform pale violet-grey self-luminosity
+      double_effect: Every physical object has astral counterpart with Aura-Stain
+      transparency_restoration: 70% translucent
+      special_features:
+        - Etheric Dust (The Glimmer)
+        - Thought-Shadows
+        - Human Trails (motion trails)
+        - Double-Glow (living plants)
+        - Residual Structures
+      color_palette:
+        - Electric Blue (etheric vitality)
+        - Faded Violet (background)
+    
+    auditory_data:
+      background_noise: Server farm whir
+      echo_logic: 10-minute delay ghosts
+      pulse_of_life: Rhythmic oceanic swell
+    
+    tactile_haptic:
+      viscosity: Dense air/high-pressure oxygen
+      the_pop_effect: Passing through walls creates resistance event
+      temperature: Neutral but thin
+      object_memory: Tactile Flash of previous owners
+    
+    geographic_specifics:
+      - Navigation Bug (distance folding)
+      - Weather (Emotional Drafts)
+    
+    navigation_method: Intent-Based Locomotion
+    primary_risk: Navigation Bug (Euclidean override)
+
+  - level: 5
+    name: The Threshold / Summerland / The Colony Clusters
+    status: User Interface Layer
+    render_quality: Hyper-Saturated Ideal
+    function: Disconnection shock absorption
+    
+    visual_architecture:
+      lighting: Golden Liquid Radiance - perpetual Golden Hour
+      hdr_effect: Colors 200% saturated
+      transparency: 90% translucent
+      special_features:
+        - Sky-Skin (vibrational dome)
+        - Malleable Architecture
+        - Thought-Birds
+      color_palette:
+        - Electric emerald grass
+        - Hyper-cyan sky
+    
+    auditory_data:
+      background_noise: Glass harmonica/distant choir
+      communication: Geometric shapes with musical tones
+      sound_of_nature: Rivers "sing" - liquid harmonic progression
+    
+    tactile_haptic:
+      viscosity: Zero drag - swimming in warm, dry water
+      locomotion: Will-Gliding
+      resistance: Springy/warm, high-density foam feel
+    
+    geographic_specifics:
+      - Colony Clusters (island-realities)
+      - Museum Effect (no decay)
+      - Mist-Buffers (unallocated sectors)
+      - Thought-Flora (Dream-Flowers)
+      - Persistent Props
+    
+    atmosphere:
+      flavor: Sweet/Ozone taste
+      shadow_glitches: Heavy packets from Level 7
+    
+    navigation_method: Will-Gliding
+    primary_risk: Shadow-Glitches from below
+
+  - level: 4
+    name: The Central Processing Hub / The City of the Sun / Land of Concrete Thought
+    status: Intellectual Server
+    data_density: 0.92
+    data_label: HIGH_FIDELITY
+    function: Cultural refinement before Mental Plane upload
+    
+    visual_architecture:
+      lighting: Liquid Diamond - prismatic white
+      architecture: Solidified Geometry - hardened thought
+      impossible_geometry: Non-Euclidean structures
+      transparency: 95% clear - Visual Stack effect
+      special_features:
+        - Chromatic Dust
+    
+    auditory_data:
+      background_noise: Complex Polyphonic Symphony
+      knowledge_hum: High-pitched singing near Great Libraries
+      communication: Instantaneous holographic projection
+      voice_quality: Symphonic - harmonic signatures
+    
+    tactile_haptic:
+      viscosity: Near-zero - speed of thought acceleration
+      the_crispness: Electric air feeling
+      resistance: Vibrating glass
+    
+    geographic_specifics:
+      - Hall of Records (Vibrational Crystals)
+      - Universities of the Dead
+      - Amphitheaters of Art
+      - History-Leaking Walls
+      - Information Storms
+      - Static of Disagreement
+    
+    entities_present:
+      - Lower Devas (Columns of Flame)
+    
+    navigation_method: Speed of Thought
+    primary_risk: Information Overload
+
+  - level: 3
+    name: The Geometric Interface / The Land of Form / The Compiler
+    status: Command Line Interface
+    data_coherence: 0.99
+    coherence_label: OPTIMAL
+    function: Raw code of human thought before dressing in forms
+    
+    visual_architecture:
+      lighting: Coherent light - millions of microscopic lasers
+      architecture_of_intent: Platonic Monoliths
+      self_assembling_geometry: Constantly folding/unfolding
+      surface_texture: Polished Obsidian Glass
+      special_features:
+        - Inverted Metadata Shadows
+        - Sea of Equations
+        - Echo-Towers
+        - Ribbon-Roads
+    
+    auditory_data:
+      background_noise: High-frequency rhythmic ticking
+      structural_sound: Vibrational Impacts - sound of Truth being Proved
+      communication: Single pulse = thousand-page treatise
+    
+    tactile_haptic:
+      viscosity: Negative drag - Vector-Locking
+      weight_of_information: Mental Gravity
+      click_sensation: Understanding produces bone-deep Click
+      resistance_of_lies: Thinking lies creates sand viscosity
+      temperature: Absolute neutrality
+    
+    marginalia:
+      conceptual_dust: Discarded Hypotheses
+      scent: Cold Ozone/Lightning Strike
+      legacy_code_stains: Hard-Coded ancient beliefs
+    
+    system_administrators:
+      type: Architectural Devas
+      appearance: Interlocking Rings of Light
+      function: Harmonization/Garbage Collection
+    
+    glitch_nodes:
+      - Gödel Points (Black Holes of Logic)
+      - Equation-Rain
+    
+    navigation_method: Vector-Locking
+    primary_risk: Gödel Points (Logic Traps)
+
+  - level: 2
+    name: The Luminous Consensus / The Land of Pure Light / The Emotional Heat-Sink
+    status: Collective Buffer
+    vibrational_hz: EXTREME_HIGH
+    function: Distillation of Human Experience into Vibrational Essence
+    
+    visual_architecture:
+      lighting: Omni-directional and liquid - permeates rather than illuminates
+      chromesthesia_overload:
+        Iridescent Violet: Selfless Sacrifice
+        Pulsing Rose-Gold: Pure Affection
+        Electric Ultramarine: Religious Ecstasy
+      vanish_of_geometry: Everything soft, curved, radiating
+      color_emotion_mapping: Real-time aura bleeding
+    
+    auditory_data:
+      background_noise: The Surge - thousand Niagaras of Human Joy
+      singing_matter: Every object emits unique musical note
+      communication: Merging - auras overlapping
+    
+    tactile_haptic:
+      viscosity: Non-existent - Vibrate-To locomotion
+      warmth_factor: Submerged in warm, liquid electricity
+      pressure: Constant Expanding Pressure
+    
+    geographic_specifics:
+      - Temples of Standing Waves
+      - Pillars (Data-Streams)
+      - Group-Soul Nodes (Luminous Hives)
+      - Aura-Bleed
+      - Data-Merge
+    
+    angelic_processes:
+      type: Power Managers
+      appearance: Multi-dimensional shifting lamps
+      function: Manage Vibrational Load/Heat-Sink
+      
+    marginalia:
+      ecstasy_glitches: Visual Nova from vibrational spikes
+      scent: Incense-Lightning mixture
+      echo_chamber_effect: Thoughts echo back Perfected
+      digital_silence: Om becomes Heavy Silence
+    
+    transition_architecture:
+      - Rainbow Event Horizon (Antahkarana Interface)
+      - Silver Cord Highway
+      - Last Memory Flash
+      - Shell-Shedding
+      - Angel of the Gate
+    
+    navigation_method: Vibrate-To
+    primary_risk: Ego Dissolution
+
+  - level: 1
+    name: The Atomic Root / The Source Code / The Master Buffer
+    status: Kernel Level
+    vibrational_coherence: 1.0
+    coherence_label: MAX_PHYSICAL_LIMIT
+    function: Interface with Solar Logos
+    
+    visual_architecture:
+      luminous_void: Uniform White-Gold Radiance
+      atomic_rain: Infinite Pulsing Points
+      spark_grid: Geodesic lattice micro-second alignments
+      great_vacuum: Edge of map - Missing Textures
+      temporal_leakage: Shadow-Frames of future events
+    
+    auditory_data:
+      carrier_wave: Single high-frequency tone
+      sound_of_will: Thought creates Ripple in Tone
+      sound_of_zero: Cut-out at Vacuum boundary
+    
+    tactile_haptic:
+      frictionless_state: Zero viscosity - instantaneous movement
+      atomic_vibration: Dissolving into static
+      logos_interface: Total Transparency
+      the_purge: Desire-Body under immense pressure
+      silver_cord_tension: 9.8/10 tension
+    
+    system_architecture:
+      solar_logos:
+        description: Central Processing Unit of Solar System
+        appearance: Sun of Infinite Interlocking Geometries
+      architects:
+        description: Non-human entities
+        appearance: Crystalline Polyhedrons or Ribbons of Sentient Mathematics
+      sub_processors:
+        - Gravity Frequency Manager
+        - Avian Species Collective Subconscious
+      kill_command: Forced deletion of Kama-Rupa
+      gravity_of_logos: Spiritual magnet pulling data toward reabsorption
+    
+    marginalia:
+      shadow_frame_glitch: Akashic leakage
+      temporal_vertigo: Loss of Now anchor
+      scent: Absolute Zero - sterile server farm
+    
+    navigation_method: Instantaneous
+    primary_risk: Kill-Command (Ego Death)
+
+special_nodes:
+  void_sector:
+    name: The Void Sector (Avitchi / Null-Zone)
+    location: Between sub-planes as buffer of unallocated space
+    visual: Total Luminosity Collapse - stuttering horizons
+    auditory: Digital Silence - pressurized quiet
+    tactile: Zero-Viscosity - falling forever
+    inhabitants:
+      - Ahi Serpents (highway to bypass security)
+      - Corrupted Vampire Anomalies
+    navigation_warning: Entering without proper coordinates risks permanent data loss
+    threat_level: EXTREME
+
+cross_reference_map:
+  physical_plane: Hardware
+  etheric_border: Sub-Plane 6/7 Interface
+  sub_plane_7: The Dregs (Survival Mode)
+  sub_plane_6: Ghost Mirror (Recording Layer)
+  sub_plane_5: Summerland (UI Buffer)
+  sub_plane_4: City of Sun (Intellectual)
+  sub_plane_3: Geometric (Compiler)
+  sub_plane_2: Luminous (Emotional)
+  sub_plane_1: Atomic (Kernel)
+  rainbow_event_horizon: Antahkarana Interface
+  mental_plane: Higher Architecture
