@@ -1,0 +1,49 @@
+database_manifest:
+  project_id: THEOSOPHICAL_ASTRAL_DATABASE_v1.0
+  operative_authority: UNCONDITIONAL
+  detail_threshold: MAXIMUM
+  insignificance_filter: DISABLED
+  planes_mapped:
+    plane_07:
+      name: Physical_Etheric
+      status: REFERENCED
+      key_feature: Etheric_Double_Hardware
+    plane_06:
+      name: Astral_Kamaloka
+      status: COMPLETE
+      files:
+        - astral_6_physics.csv
+        - astral_6_inhabitants.yaml
+        - astral_6_cities.csv
+      key_anomalies:
+        - Self_Luminous_No_Shadows
+        - Habit_Loop_Zombies
+        - Silver_Cord_Tether
+    plane_05:
+      name: Lower_Mental_Devachan
+      status: COMPLETE
+      files:
+        - mental_5_atomic_physics.yaml
+        - mental_5_thought_forms.csv
+        - mental_5_devachan_architecture.yaml
+        - mental_5_dark_nodes.csv
+      key_anomalies:
+        - Thought_Bot_Autonomy
+        - Vacuum_Snap_Propagation
+        - Materialist_Gap
+    plane_04:
+      name: Higher_Mental_Arupa
+      status: COMPLETE
+      files:
+        - causal_4_body_system.yaml
+        - causal_4_akashic_records.csv
+        - causal_4_encryption_layers.yaml
+        - causal_4_admin_entities.csv
+      key_anomalies:
+        - Form_Rendering_Error_Columns
+        - Pratyeka_Isolationist_Glitch
+        - Antahkarana_Voltage_Gap
+  next_target:
+    plane: 03_Buddhic_Unity
+    warning: Non_Dual_Processing_Mesh
+    data_structure_warning: Individual_Servers_Dissolve
