@@ -1,0 +1,68 @@
+{
+  "plane_3_core": {
+    "deep_amber": "#FF6F00",
+    "violet_red": "#8B0046",
+    "sea_green": "#2E8B57",
+    "grey_transition": "#708090",
+    "oil_slick_base": "#1a1a2e",
+    "oil_slick_iridescence": [
+      "#4a00e0",
+      "#8e2de2",
+      "#00d2ff",
+      "#3a7bd5"
+    ]
+  },
+  "entity_colors": {
+    "glimmer_swarm": "#C0C0C0",
+    "ley_line_eel": "#E6E6FA",
+    "eel_violet_pits": "#9400D3",
+    "memory_moth": "#FFFAFA",
+    "moth_trail": "#FFE4B5",
+    "aura_lice": "#F0F8FF",
+    "desire_golem_muddy": "#8B4513",
+    "desire_golem_red": "#8B0000",
+    "habit_loop_grey": "#696969",
+    "distraction_cloud": "#A9A9A9",
+    "glitch_fly": "#00FFFF"
+  },
+  "flora_colors": {
+    "resonance_kelp_jade": "#00A86B",
+    "resonance_kelp_amber": "#FFBF00",
+    "echo_bloom_crystalline": "#B0E0E6",
+    "geometric_vine_green": "#39FF14",
+    "geometric_vine_blue": "#00FFFF"
+  },
+  "sensory_mapping": {
+    "warm_zones": "#FFD700",
+    "cool_zones": "#ADD8E6",
+    "prickling_danger": "#FF4500",
+    "ozone_metallic": "#708090",
+    "copper_taste": "#B87333",
+    "shadow_liquid": "#2F4F4F"
+  },
+  "shader_gradients": {
+    "plane_2_to_3": [
+      "#2F2F2F",
+      "#4a4a4a",
+      "#FF6F00",
+      "#8B0046"
+    ],
+    "plane_3_to_4": [
+      "#2E8B57",
+      "#8B0046",
+      "#E6E6FA",
+      "#FFFFFF"
+    ],
+    "desire_vortex": [
+      "#8B0000",
+      "#FF1493",
+      "#9400D3",
+      "#4B0082"
+    ],
+    "ley_line_river": [
+      "#00FFFF",
+      "#9400D3",
+      "#E6E6FA"
+    ]
+  }
+}

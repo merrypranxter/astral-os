@@ -1,0 +1,39 @@
+/* Astral Plane 3 - Color System */
+:root {
+  /* Core Plane Colors */
+  --ap3-deep-amber: #FF6F00;
+  --ap3-violet-red: #8B0046;
+  --ap3-sea-green: #2E8B57;
+  --ap3-grey-transition: #708090;
+  --ap3-oil-slick-base: #1a1a2e;
+
+  /* Entity Colors */
+  --entity-glimmer: #C0C0C0;
+  --entity-eel-body: #E6E6FA;
+  --entity-eel-pits: #9400D3;
+  --entity-moth: #FFFAFA;
+  --entity-golem-muddy: #8B4513;
+  --entity-habit-grey: #696969;
+  --entity-glitch: #00FFFF;
+
+  /* Flora Colors */
+  --flora-kelp-jade: #00A86B;
+  --flora-kelp-amber: #FFBF00;
+  --flora-vine-green: #39FF14;
+  --flora-vine-blue: #00FFFF;
+
+  /* Sensory Thermal */
+  --thermal-warm: #FFD700;
+  --thermal-cool: #ADD8E6;
+  --thermal-danger: #FF4500;
+  --metallic-ozone: #708090;
+}
+
+/* Gradient Definitions */
+.ap3-boundary-shimmer {
+  background: linear-gradient(45deg, #1a1a2e, #4a00e0, #8e2de2, #00d2ff);
+}
+
+.ap3-ley-line {
+  background: linear-gradient(90deg, #00FFFF, #9400D3, #E6E6FA);
+}
