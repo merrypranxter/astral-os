@@ -1,0 +1,12 @@
+entity,category,visual,tactile,auditory,olfactory,taste,hazard,physics_density
+Glimmer-Swarms,fauna,mirror_bright_fish,silk_brushing,none,none,aluminum_mint,moderate,0.1
+Ley-Line Eels,fauna,translucent_ribbon_violet,forced_emotion,turbulence,none,none,low,0.3
+Memory-Moths,fauna,white_triangles,none,paper_tearing,none,burnt_sugar,none,0.2
+Aura-Lice,micro_fauna,teardrop_translucent,rhythmic_pulsing,none,wet_fur_ozone,none,low,0.1
+Desire-Golems,construct,half-formed_shifting,greasy_cold,none,rotting_fruit,none,high,0.6
+Habit-Loops,construct,grey_donuts,sticky_tape,none,stale_air,none,moderate,0.4
+Glitch-Flies,micro_fauna,flickering_dots,internal_tickle,TV_static,none,none,none,0.0
+Distraction-Clouds,construct,grey_puffs,none,none,hot_electronics,none,moderate,0.2
+Resonance-Kelp,flora,jade_amber_ribbons,cool_slimy,bubbling,ozone_rain,none,none,0.3
+Echo-Blooms,flora,geometric_snowflakes,static_cling,reverb,none,sweet_nectar,none,0.1
+Geometric-Vines,flora,neon_wireframe,guitar_tension,432Hz_hum,none,none,none,0.5

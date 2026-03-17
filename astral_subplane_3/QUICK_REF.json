@@ -1,0 +1,21 @@
+{
+  "plane": "Astral_Sub-Plane_3",
+  "alias": "Middle_Underlayer",
+  "density": 0.45,
+  "key_colors": [
+    "#FF6F00",
+    "#8B0046",
+    "#2E8B57"
+  ],
+  "primary_entities": [
+    "Glimmer-Swarms",
+    "Ley-Line-Eels",
+    "Memory-Moths"
+  ],
+  "hazards": [
+    "Sticky-Current",
+    "Mirror-Effect",
+    "Aura-Fragmentation"
+  ],
+  "next_plane": "Sub-Plane_4_Concrete_Thought"
+}

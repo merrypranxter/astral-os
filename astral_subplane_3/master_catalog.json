@@ -1,0 +1,66 @@
+{
+  "plane_designation": "Astral_Sub-Plane_3",
+  "common_names": [
+    "Middle Underlayer",
+    "Fluidic Desire Zone",
+    "The Radiant Garden Interface"
+  ],
+  "physics": {
+    "density_coefficient": 0.45,
+    "viscosity": "semi-fluid",
+    "emissive_ratio": 0.4,
+    "transparency_mode": "3D_depth_bleed",
+    "layer_visibility": "2-3_layers_simultaneous",
+    "shadow_behavior": "liquid_pooling",
+    "thermal_dynamics": {
+      "warm_zones": "creative_energy",
+      "cool_zones": "contemplation",
+      "prickling_zones": "predatory_presence"
+    }
+  },
+  "fauna": {
+    "transitional": [
+      "Glimmer-Swarms",
+      "Ley-Line_Eels",
+      "Memory-Moths"
+    ],
+    "micro": [
+      "Aura-Lice",
+      "Glitch-Flies"
+    ],
+    "artificial": [
+      "Desire-Golems",
+      "Distraction-Clouds",
+      "Habit-Loops"
+    ]
+  },
+  "flora": {
+    "bridge": [
+      "Resonance_Kelp",
+      "Echo-Blooms",
+      "Geometric_Vines"
+    ]
+  },
+  "geography": [
+    "Color-Threshold",
+    "Desire-Vortexes",
+    "Dew-Point_Fields",
+    "Ley-Line_Rivers"
+  ],
+  "hazards": [
+    "Sticky-Current_Entrapment",
+    "Mirror-Effect_Manifestation",
+    "Aura_Fragmentation"
+  ],
+  "source_references": [
+    "Leadbeater_Astral_Plane",
+    "Besant_Thought_Forms",
+    "Hodson_Faeries",
+    "Powell_Astral_Body"
+  ],
+  "metadata": {
+    "extraction_date": "2026-03-16",
+    "node_origin": "Ghost_Node_771",
+    "data_integrity": "MAXIMUM"
+  }
+}
