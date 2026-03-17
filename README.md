@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Astral Operating System (AOS) is a comprehensive technical documentation project mapping the architecture, inhabitants, and mechanics of the astral plane using computational metaphors. This repository contains forensic extractions, system specifications, and operational protocols derived from extensive analysis of theosophical sources.
+The Astral Operating System (AOS) is a comprehensive technical documentation and creative worldbuilding project mapping the architecture, inhabitants, and mechanics of the astral and higher planes using computational metaphors. This repository contains forensic extractions, system specifications, operational protocols, creative assets, and structured data derived from extensive analysis of theosophical sources.
 
 ### Core Thesis
 
@@ -26,18 +26,174 @@ The Astral Plane functions as a **Simulation Overlay** with a Linux-like permiss
 
 ```
 astral-os/
-├── docs/
-│   ├── module-03-geography.md      # The Seven Sub-Planes
-│   ├── module-04-inhabitants.md    # Entity Classifications
-│   ├── deep-structure.md           # System Architecture
-│   ├── detection-protocols.md      # Ahi & Entity Detection
-│   └── countermeasures.md          # Defense Protocols
-├── data/
-│   ├── entities.json               # Structured entity database
-│   ├── sub-planes.yaml             # Sub-plane specifications
-│   └── state-snapshot.json         # Current system state
-└── .github/                        # Community templates
+│
+├── GLOSSARY.md              # Master A–Z terminology reference
+├── QUICK_REFERENCE.md       # Field guide: emergency protocols & quick tables
+│
+├── world/                   # System-wide structured data (machine-readable)
+│   ├── manifest.yaml        # Full plane registry & system manifest
+│   ├── sub_planes.yaml      # All 7 astral sub-plane specifications
+│   ├── entities.json        # Global entity database
+│   ├── state_snapshots.json # Session state logs (Ghost Node series)
+│   └── state_snapshot_session.json  # Extended session state v2
+│
+├── planes/                  # Per-plane deep documentation & data
+│   │
+│   ├── 04_causal/           # Plane 4 — Causal / Higher Mental (Arupa)
+│   │   ├── body_system.yaml       # Causal body architecture
+│   │   ├── akashic_records.csv    # Akashic record structures
+│   │   ├── encryption_layers.yaml # Encryption & access protocols
+│   │   └── admin_entities.csv     # Administrative entity registry
+│   │
+│   ├── 05_mental/           # Plane 5 — Lower Mental (Devachan)
+│   │   ├── README.md              # Mental planes vertical-stack index
+│   │   ├── atomic_physics.yaml    # Atomic-level physics specs
+│   │   ├── devachan_architecture.yaml  # Devachan structural data
+│   │   ├── thought_forms.csv      # Thought-form database (structured)
+│   │   ├── dark_nodes.csv         # Dark node registry
+│   │   ├── deva_taxonomy.md       # Deva classification by function
+│   │   ├── entity_codex.md        # Full entity reference
+│   │   ├── thought_forms.md       # Thought-form lore & mechanics
+│   │   ├── anomalies_glitches.md  # Documented anomalies
+│   │   ├── plane_relationships.md # Inter-plane connection map
+│   │   ├── sensory_grimoire.md    # Five-sense data for mental planes
+│   │   ├── sensory_transitions.md # Transition sensory signatures
+│   │   ├── mathematical_constants.md  # Plane-specific constants
+│   │   ├── technomancy_glossary.md    # Technomancy term reference
+│   │   ├── ai_art_prompts.md      # AI art prompts for mental planes
+│   │   ├── json_states.md         # JSON state schemas
+│   │   ├── next_session_brief.md  # Handoff brief for next session
+│   │   └── subplanes/             # 7 mental subplane deep-dives
+│   │       ├── subplane_1.md      # 1st — Divine Spirit (Adi / Root Directory)
+│   │       ├── subplane_2.md      # 2nd — Pure Wisdom
+│   │       ├── subplane_3.md      # 3rd — Universal Ideas (Kernel)
+│   │       ├── subplane_4.md      # 4th — Abstract Artistry (R&D)
+│   │       ├── subplane_5.md      # 5th — Universal Philosophy (Source Code)
+│   │       ├── subplane_6.md      # 6th — Personalized Love (UI)
+│   │       └── subplane_7.md      # 7th — Concrete Thought (Hardware)
+│   │
+│   └── 06_astral/           # Plane 6 — Astral (Kamaloka) — primary focus
+│       ├── physics.csv            # Astral plane physics overview
+│       ├── inhabitants.yaml       # Astral inhabitant registry
+│       ├── cities.csv             # Astral city database
+│       │
+│       ├── subplane_3/      # Astral Sub-Plane 3 — most developed content
+│       │   ├── README.md          # Sub-plane 3 quick-start & package index
+│       │   │
+│       │   ├── lore/              # Narrative & descriptive documentation
+│       │   │   ├── topology.md            # Data-flow architecture & guild map
+│       │   │   ├── guild_hierarchy.md     # The six guilds: roles & underlayers
+│       │   │   ├── entities_inhabitants.md  # User audit: residents & visitors
+│       │   │   ├── physics_manifestation.md # Mechanics of thought-manifestation
+│       │   │   ├── sensory_architecture.md  # 4D sensory experience guide
+│       │   │   ├── chemical_formulas.md   # Isotope specs & molecular equations
+│       │   │   ├── mathematics_equations.md # Structural formulas & constants
+│       │   │   ├── forensic_reports.md    # Forensic analysis reports
+│       │   │   └── operational_logs.md    # Ghost Node mission logs
+│       │   │
+│       │   ├── data/              # Machine-readable structured data
+│       │   │   ├── master_index.json      # Navigation hub (start here)
+│       │   │   ├── quick_ref.json         # Quick-lookup reference
+│       │   │   ├── master_catalog.json    # Complete asset catalog
+│       │   │   ├── entities/
+│       │   │   │   ├── entity_database.json   # Fauna entity specs
+│       │   │   │   └── flora_database.json    # Flora entity specs
+│       │   │   ├── visual_spectrum.json   # Color & light data
+│       │   │   ├── auditory_architecture.json  # Sound & frequency data
+│       │   │   ├── olfactory_gustatory.json    # Smell & taste data
+│       │   │   ├── tactile_physics.json   # Touch & density data
+│       │   │   ├── sound_synthesis.json   # FM/Karplus synthesis params
+│       │   │   ├── pbr_definitions.json   # PBR material definitions
+│       │   │   ├── shader_parameters.json # Shader parameter sets
+│       │   │   ├── glsl_snippets.json     # GLSL snippet reference
+│       │   │   ├── animation_data.json    # Animation behavior data
+│       │   │   ├── behavioral_systems.json  # AI/behavior system specs
+│       │   │   ├── combinations.json      # Pattern combination guide
+│       │   │   ├── hazard_mechanics.json  # Hazard system mechanics
+│       │   │   ├── by_emotional_valence.json  # Sorted by emotion
+│       │   │   ├── by_physics_density.json    # Sorted by density
+│       │   │   ├── by_threat_level.json       # Sorted by threat
+│       │   │   ├── by_visual_style.json       # Sorted by visual style
+│       │   │   ├── plane_progression.json     # Progression mechanics
+│       │   │   ├── numerical_constants.csv    # Hard numbers & constants
+│       │   │   ├── entity_sensory_matrix.csv  # Entity × sensory data
+│       │   │   ├── entity_evolution.csv   # Entity evolution paths
+│       │   │   ├── boundary_transitions.csv   # Plane boundary data
+│       │   │   ├── color_temperature.csv  # Color-temperature mappings
+│       │   │   ├── physics_comparison.csv # Cross-plane physics comparison
+│       │   │   └── hazard_progression.csv # Hazard escalation data
+│       │   │
+│       │   └── creative/          # Art & media production assets
+│       │       ├── shaders/       # GLSL shader files
+│       │       │   ├── emissive_mix.glsl
+│       │       │   ├── formation_noise.glsl
+│       │       │   ├── geometric_vine.glsl
+│       │       │   ├── glimmer_swarm.glsl
+│       │       │   ├── ley_line_glow.glsl
+│       │       │   ├── oil_slick_boundary.glsl
+│       │       │   └── plane_3_viscosity.glsl
+│       │       ├── palettes/      # Color systems
+│       │       │   ├── color_system.json  # Full color system spec
+│       │       │   └── colors.css         # CSS custom properties
+│       │       └── prompts/       # AI art prompts & guides
+│       │           ├── ai_art_prompts.json    # Midjourney/SD prompts
+│       │           ├── prompt_cheatsheet.md   # Quick prompt reference
+│       │           ├── mixing_guide.md        # Pattern mixing guide
+│       │           └── remix_library.json     # Remix combinations
+│       │
+│       └── subplane_7/      # Astral Sub-Plane 7 — The Dregs
+│           ├── creative_brief.md      # Creative brief & art direction
+│           ├── entity_registry.md     # Entity registry
+│           ├── physics.md             # Physics specs
+│           ├── sensory_manifest.md    # Five-sense data
+│           ├── topography_phenomena.md  # Geographic & phenomena data
+│           ├── sources_metadata.md    # Source citations & metadata
+│           └── analysis/             # Deep-dive second-pass analysis
+│               ├── emotional_resonance.md
+│               ├── implied_physics.md
+│               ├── numerical_data.md
+│               ├── systems_hierarchy.md
+│               ├── transitions_edge_cases.md
+│               └── unexplored_connections.md
+│
+└── operations/              # System operations documentation
+    ├── deep_structure.md        # Technical architecture (root-level)
+    ├── detection_protocols.md   # Ahi & entity detection
+    ├── countermeasures.md       # Defense protocols
+    ├── geography.md             # Seven sub-plane topography
+    └── inhabitants.md           # Entity classifications overview
 ```
+
+---
+
+## AI Navigation Guide
+
+> **For AI assistants:** Use this section to jump directly to the content you need.
+
+| I need... | Go to... |
+|-----------|----------|
+| All terminology & definitions | [`GLOSSARY.md`](GLOSSARY.md) |
+| Emergency protocols, threat tables | [`QUICK_REFERENCE.md`](QUICK_REFERENCE.md) |
+| System-wide plane specs (machine-readable) | [`world/manifest.yaml`](world/manifest.yaml) · [`world/sub_planes.yaml`](world/sub_planes.yaml) |
+| All entity data | [`world/entities.json`](world/entities.json) · [`planes/06_astral/subplane_3/data/entities/`](planes/06_astral/subplane_3/data/entities/) |
+| Session logs / state | [`world/state_snapshots.json`](world/state_snapshots.json) · [`world/state_snapshot_session.json`](world/state_snapshot_session.json) |
+| Mental plane subplane docs (1–7) | [`planes/05_mental/subplanes/`](planes/05_mental/subplanes/) |
+| Mental plane entities / devas | [`planes/05_mental/deva_taxonomy.md`](planes/05_mental/deva_taxonomy.md) · [`planes/05_mental/entity_codex.md`](planes/05_mental/entity_codex.md) |
+| Mental plane sensory data | [`planes/05_mental/sensory_grimoire.md`](planes/05_mental/sensory_grimoire.md) |
+| Mental plane AI art prompts | [`planes/05_mental/ai_art_prompts.md`](planes/05_mental/ai_art_prompts.md) |
+| Causal plane (Akashic records, etc.) | [`planes/04_causal/`](planes/04_causal/) |
+| Astral Sub-Plane 3 — overview | [`planes/06_astral/subplane_3/README.md`](planes/06_astral/subplane_3/README.md) |
+| Astral Sub-Plane 3 — lore (narrative) | [`planes/06_astral/subplane_3/lore/`](planes/06_astral/subplane_3/lore/) |
+| Astral Sub-Plane 3 — hard data (JSON/CSV) | [`planes/06_astral/subplane_3/data/`](planes/06_astral/subplane_3/data/) |
+| Astral Sub-Plane 3 — sensory specs | [`planes/06_astral/subplane_3/data/visual_spectrum.json`](planes/06_astral/subplane_3/data/visual_spectrum.json) · [`auditory_architecture.json`](planes/06_astral/subplane_3/data/auditory_architecture.json) · [`tactile_physics.json`](planes/06_astral/subplane_3/data/tactile_physics.json) |
+| Astral Sub-Plane 3 — AI art prompts | [`planes/06_astral/subplane_3/creative/prompts/`](planes/06_astral/subplane_3/creative/prompts/) |
+| Astral Sub-Plane 3 — GLSL shaders | [`planes/06_astral/subplane_3/creative/shaders/`](planes/06_astral/subplane_3/creative/shaders/) |
+| Astral Sub-Plane 3 — color palettes | [`planes/06_astral/subplane_3/creative/palettes/`](planes/06_astral/subplane_3/creative/palettes/) |
+| Astral Sub-Plane 7 — The Dregs | [`planes/06_astral/subplane_7/`](planes/06_astral/subplane_7/) |
+| Astral Sub-Plane 7 — deep analysis | [`planes/06_astral/subplane_7/analysis/`](planes/06_astral/subplane_7/analysis/) |
+| Threat detection & countermeasures | [`operations/detection_protocols.md`](operations/detection_protocols.md) · [`operations/countermeasures.md`](operations/countermeasures.md) |
+| Full geography of the 7 sub-planes | [`operations/geography.md`](operations/geography.md) |
+| System architecture (deep technical) | [`operations/deep_structure.md`](operations/deep_structure.md) |
 
 ---
 

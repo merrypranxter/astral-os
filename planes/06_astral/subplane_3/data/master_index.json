@@ -1,0 +1,158 @@
+{
+  "package_info": {
+    "name": "Astral Plane 3 Total Deconstruction",
+    "version": "1.0",
+    "planes_covered": [
+      "Sub-Plane_3"
+    ],
+    "total_files": 42,
+    "categories": 9
+  },
+  "file_structure": {
+    "lore/": {
+      "description": "Narrative and descriptive documentation",
+      "files": [
+        "topology.md",
+        "guild_hierarchy.md",
+        "entities_inhabitants.md",
+        "physics_manifestation.md",
+        "sensory_architecture.md",
+        "chemical_formulas.md",
+        "mathematics_equations.md",
+        "forensic_reports.md",
+        "operational_logs.md"
+      ],
+      "use_case": "Worldbuilding, writing, creative background research"
+    },
+    "data/entities/": {
+      "description": "Fauna and flora specifications",
+      "files": [
+        "entity_database.json",
+        "flora_database.json"
+      ],
+      "use_case": "AI art, game design, worldbuilding"
+    },
+    "data/": {
+      "description": "Machine-readable structured data (sensory, physics, behavior)",
+      "files": [
+        "visual_spectrum.json",
+        "auditory_architecture.json",
+        "tactile_physics.json",
+        "olfactory_gustatory.json",
+        "sound_synthesis.json",
+        "shader_parameters.json",
+        "glsl_snippets.json",
+        "numerical_constants.csv",
+        "boundary_transitions.csv",
+        "behavioral_systems.json",
+        "animation_data.json",
+        "hazard_mechanics.json",
+        "pbr_definitions.json",
+        "combinations.json",
+        "plane_progression.json",
+        "by_emotional_valence.json",
+        "by_physics_density.json",
+        "by_threat_level.json",
+        "by_visual_style.json",
+        "entity_sensory_matrix.csv",
+        "entity_evolution.csv",
+        "color_temperature.csv",
+        "physics_comparison.csv",
+        "hazard_progression.csv",
+        "master_catalog.json",
+        "master_index.json",
+        "quick_ref.json"
+      ],
+      "use_case": "Technical implementation, game design, shader coding, AI behavior"
+    },
+    "creative/palettes/": {
+      "description": "Color systems and hex codes",
+      "files": [
+        "color_system.json",
+        "colors.css"
+      ],
+      "use_case": "Web design, art direction, shader color mapping"
+    },
+    "creative/prompts/": {
+      "description": "AI art generation prompts and guides",
+      "files": [
+        "ai_art_prompts.json",
+        "prompt_cheatsheet.md",
+        "mixing_guide.md",
+        "remix_library.json"
+      ],
+      "use_case": "Midjourney, Stable Diffusion, DALL-E, procedural generation"
+    },
+    "creative/shaders/": {
+      "description": "GLSL shader files",
+      "files": [
+        "emissive_mix.glsl",
+        "formation_noise.glsl",
+        "geometric_vine.glsl",
+        "glimmer_swarm.glsl",
+        "ley_line_glow.glsl",
+        "oil_slick_boundary.glsl",
+        "plane_3_viscosity.glsl"
+      ],
+      "use_case": "ShaderToy, Unity, Unreal, Three.js"
+    }
+  },
+  "quick_access": {
+    "i_need_colors": "creative/palettes/color_system.json",
+    "i_need_prompts": "creative/prompts/prompt_cheatsheet.md",
+    "i_need_shader_code": "creative/shaders/",
+    "i_need_shader_snippets": "data/glsl_snippets.json",
+    "i_need_physics_numbers": "data/numerical_constants.csv",
+    "i_need_entity_stats": "data/entity_sensory_matrix.csv",
+    "i_need_ai_behavior": "data/behavioral_systems.json",
+    "i_need_sounds": "data/sound_synthesis.json",
+    "i_need_hazards": "data/hazard_mechanics.json",
+    "i_need_to_compare_planes": "data/plane_progression.json",
+    "i_need_lore": "lore/",
+    "i_need_entity_database": "data/entities/entity_database.json"
+  },
+  "entity_quick_ref": {
+    "Glimmer-Swarms": {
+      "type": "fauna",
+      "threat": 1,
+      "density": 0.1,
+      "visual": "mirror_bright"
+    },
+    "Ley-Line-Eels": {
+      "type": "fauna",
+      "threat": 1,
+      "density": 0.3,
+      "visual": "translucent_violet"
+    },
+    "Memory-Moths": {
+      "type": "fauna",
+      "threat": 0,
+      "density": 0.2,
+      "visual": "white_triangles"
+    },
+    "Desire-Golems": {
+      "type": "construct",
+      "threat": 3,
+      "density": 0.6,
+      "visual": "viscous_shifting"
+    },
+    "Habit-Loops": {
+      "type": "construct",
+      "threat": 2,
+      "density": 0.4,
+      "visual": "grey_donuts"
+    },
+    "Resonance-Kelp": {
+      "type": "flora",
+      "threat": 0,
+      "density": 0.3,
+      "visual": "jade_amber_ribbons"
+    },
+    "Geometric-Vines": {
+      "type": "flora",
+      "threat": 0,
+      "density": 0.5,
+      "visual": "neon_wireframe"
+    }
+  }
+}

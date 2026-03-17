@@ -11,10 +11,17 @@ database_manifest:
     plane_06:
       name: Astral_Kamaloka
       status: COMPLETE
-      files:
-        - astral_6_physics.csv
-        - astral_6_inhabitants.yaml
-        - astral_6_cities.csv
+      base_files:
+        - planes/06_astral/physics.csv
+        - planes/06_astral/inhabitants.yaml
+        - planes/06_astral/cities.csv
+      subplane_3:
+        lore: planes/06_astral/subplane_3/lore/
+        data: planes/06_astral/subplane_3/data/
+        creative: planes/06_astral/subplane_3/creative/
+      subplane_7:
+        docs: planes/06_astral/subplane_7/
+        analysis: planes/06_astral/subplane_7/analysis/
       key_anomalies:
         - Self_Luminous_No_Shadows
         - Habit_Loop_Zombies
@@ -23,10 +30,12 @@ database_manifest:
       name: Lower_Mental_Devachan
       status: COMPLETE
       files:
-        - mental_5_atomic_physics.yaml
-        - mental_5_thought_forms.csv
-        - mental_5_devachan_architecture.yaml
-        - mental_5_dark_nodes.csv
+        - planes/05_mental/atomic_physics.yaml
+        - planes/05_mental/thought_forms.csv
+        - planes/05_mental/devachan_architecture.yaml
+        - planes/05_mental/dark_nodes.csv
+      subplanes: planes/05_mental/subplanes/
+      lore: planes/05_mental/
       key_anomalies:
         - Thought_Bot_Autonomy
         - Vacuum_Snap_Propagation
@@ -35,10 +44,10 @@ database_manifest:
       name: Higher_Mental_Arupa
       status: COMPLETE
       files:
-        - causal_4_body_system.yaml
-        - causal_4_akashic_records.csv
-        - causal_4_encryption_layers.yaml
-        - causal_4_admin_entities.csv
+        - planes/04_causal/body_system.yaml
+        - planes/04_causal/akashic_records.csv
+        - planes/04_causal/encryption_layers.yaml
+        - planes/04_causal/admin_entities.csv
       key_anomalies:
         - Form_Rendering_Error_Columns
         - Pratyeka_Isolationist_Glitch

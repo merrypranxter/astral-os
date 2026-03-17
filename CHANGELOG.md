@@ -7,6 +7,29 @@ All notable changes to the Astral Operating System documentation project will be
 
 ---
 
+## [1.1.0] - 2026-03-17
+
+### Repository Reorganization
+
+> **Session:** Structural Refactor  
+> **Status:** COMPLETE
+
+#### Changed
+- Deleted all `DELETE THIS FILE` placeholder files
+- Moved world-level data (`master_manifest.yaml`, `state_snapshots.json`, `data/`) into `world/` with clean naming
+- Reorganized plane folders into a consistent `planes/` hierarchy:
+  - `plane_4_causal/` → `planes/04_causal/` (stripped `causal_4_` prefix from filenames)
+  - `plane_5_mental/` + `mental_planes/` → `planes/05_mental/` (merged; mental subplane docs in `subplanes/`)
+  - `plane_6_astral/` → `planes/06_astral/` (stripped `astral_6_` prefix)
+  - `astral_subplane_3/` → `planes/06_astral/subplane_3/` with `lore/`, `data/`, and `creative/` subfolders
+  - `astral_7th_subplane/` → `planes/06_astral/subplane_7/` with `analysis/` subfolder; stripped `7th_subplane_` prefix
+- Root-level lore files (topology, guilds, physics, etc.) moved to `planes/06_astral/subplane_3/lore/`
+- `docs/` moved to `operations/` with clean underscored filenames
+- Updated `README.md` with new structure tree and AI navigation guide
+- Updated `planes/06_astral/subplane_3/README.md` and `data/master_index.json` to reflect new paths
+
+---
+
 ## [1.0.0] - 2024-03-17
 
 ### Initial Release
