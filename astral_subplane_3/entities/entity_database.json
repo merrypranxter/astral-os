@@ -1,0 +1,112 @@
+{
+  "Glimmer-Swarms": {
+    "category": "transitional_fauna",
+    "type": "thought-form_precursors",
+    "appearance": "schools_of_mirror-bright_fish-like_lights",
+    "size": "tiny_swarm",
+    "motion": "synchronized_spirals",
+    "function": "raw_emotional_data_seeking_coherence",
+    "hazard_level": "moderate",
+    "sensory_signature": {
+      "tactile": "silk_brushing",
+      "taste": "aluminum_mint",
+      "visual": "mirror-bright_synchronized",
+      "behavior": "swarm_on_strong_emotion"
+    },
+    "physics": {
+      "emissive": true,
+      "density": 0.1,
+      "viscosity_interaction": "low_drag"
+    }
+  },
+  "Ley-Line_Eels": {
+    "category": "transitional_fauna",
+    "type": "energy_conduits",
+    "appearance": "translucent_ribbons_3-6ft",
+    "features": "sensory_pits_glow_violet",
+    "function": "traffic_controllers_emotional_energy",
+    "sensory_signature": {
+      "tactile": "forced_emotional_state_transfer",
+      "visual": "translucent_ribbon_violet_pits",
+      "behavior": "generate_turbulence_if_blocked"
+    },
+    "physics": {
+      "emissive": true,
+      "density": 0.3,
+      "path_constraint": "ley_line_rivers"
+    }
+  },
+  "Memory-Moths": {
+    "category": "transitional_fauna",
+    "type": "data_cross_pollinators",
+    "appearance": "hand-sized_pulsing_triangles_white_light",
+    "trails": "upward_falling_dust",
+    "function": "collect_eureka_moments",
+    "sensory_signature": {
+      "auditory": "paper_tearing",
+      "taste_trail": "burnt_sugar_pencil_shavings",
+      "visual": "soft_white_pulsing"
+    },
+    "physics": {
+      "emissive": true,
+      "density": 0.2,
+      "trail_persistence": "slow_fall_upward"
+    }
+  },
+  "Aura-Lice": {
+    "category": "micro_fauna",
+    "type": "energy_grazers",
+    "appearance": "translucent_teardrop_blobs",
+    "location": "edges_of_auras",
+    "function": "consume_dead_aura_skin",
+    "sensory_signature": {
+      "tactile": "rhythmic_pulsing",
+      "olfactory": "wet_fur_ozone"
+    },
+    "indicator": "infestation_shows_stagnation"
+  },
+  "Desire-Golems": {
+    "category": "artificial_construct",
+    "type": "unfinished_thought_forms",
+    "appearance": "viscous_half-formed_humanoid_shifting_faces",
+    "origin": "intense_unfocused_wanting",
+    "behavior": "hungry_seeking_completion",
+    "sensory_signature": {
+      "tactile": "greasy_cold_bacon_fat",
+      "visual": "bathroom_glass_distortion",
+      "olfactory": "rotting_fruit_sickly_sweet"
+    },
+    "hazard_level": "high"
+  },
+  "Habit-Loops": {
+    "category": "artificial_construct",
+    "type": "semi_autonomous_scripts",
+    "appearance": "brownish-grey_donuts_spinning",
+    "origin": "repetitive_human_behaviors",
+    "sensory_signature": {
+      "tactile": "sticky_old_tape",
+      "olfactory": "stale_air_unwashed_clothes"
+    },
+    "hazard": "create_compulsions_upon_return"
+  },
+  "Glitch-Flies": {
+    "category": "micro_fauna",
+    "type": "chaos_generators",
+    "appearance": "flickering_dots_peripheral",
+    "function": "randomizers_prevent_determinism",
+    "sensory_signature": {
+      "auditory": "TV_static_white_noise",
+      "tactile": "internal_tickle"
+    }
+  },
+  "Distraction-Clouds": {
+    "category": "artificial_construct",
+    "type": "modern_phenomena",
+    "appearance": "grey_nebulous_puffs_rhythmic",
+    "origin": "mass_media_doom_scrolling",
+    "effect": "cognitive_fog_17_tabs_open",
+    "sensory_signature": {
+      "olfactory": "hot_electronics_burning_dust_stale_coffee"
+    }
+  }
+}

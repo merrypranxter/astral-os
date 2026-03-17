@@ -1,0 +1,36 @@
+{
+  "Resonance_Kelp": {
+    "category": "bridge_flora",
+    "location": "puddles_concentrated_emotional_energy",
+    "appearance": "undulating_ribbons_jade_amber",
+    "function": "filter_aura_silt",
+    "sensory_signature": {
+      "visual": "bioluminescent_3sec_cycles",
+      "tactile": "cool_slimy_aloe",
+      "auditory": "low_bubbling_distant_stream",
+      "olfactory": "ozone_fresh_rain"
+    }
+  },
+  "Echo-Blooms": {
+    "category": "acoustic_flora",
+    "appearance": "floating_geometric_snowflakes_crystallized_sound",
+    "formation": "condensation_of_beautiful_sounds",
+    "function": "recordings_replay_on_touch",
+    "sensory_signature": {
+      "taste": "sweet_nectar_honey",
+      "tactile": "static_cling",
+      "visual": "frozen_fireworks"
+    }
+  },
+  "Geometric_Vines": {
+    "category": "structural_stitchers",
+    "appearance": "neon_green_blue_translucent_wires_90deg",
+    "location": "seams_between_planes",
+    "function": "stabilizers_prevent_bleed",
+    "sensory_signature": {
+      "tactile": "guitar_string_tension",
+      "auditory": "constant_hum_432Hz",
+      "visual": "flicker_on_plane4_approach"
+    }
+  }
+}
