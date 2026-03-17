@@ -1,0 +1,25 @@
+seven_skins_encryption:
+  skin_7_physical:
+    density: Maximum
+    data_state: Locked_In_Matter
+    key_requirement: Frequency_Matching
+  skin_6_astral:
+    density: High
+    data_state: Emotional_Encryption
+    bypass: Purification_Of_Desire
+  skin_5_lower_mental:
+    density: Medium
+    data_state: Logical_Structures
+    bypass: Abstract_Thought_Purity
+  skin_4_arupa_kernel:
+    density: Low
+    data_state: Formless_Meaning
+    bypass: Selfless_Wisdom
+  kernel_access:
+    description: Root_Permissions_4th_Plane
+    encryption_key: Arupa_Frequency_Resonance
+    firewall: Seven_Skins_Frequency_Mismatch_Reflection
+  redacted_sectors:
+    location: Behind_Higher_Skins
+    content: Pralaya_Events_Top_Secret
+    access: Stripped_Lower_Sheaths_Only
