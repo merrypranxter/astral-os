@@ -1,0 +1,50 @@
+plane_6_entities:
+  deceased_humans:
+    normal_dead:
+      behavior: Compulsive_Ritual_Maintenance
+      visual: High_Definition_Mirage
+      habitat: Astral_Double_Homes
+      threat_level: NONE
+      note: Consumes illusory meals for sensory memory
+    sleepers:
+      behavior: Dream_Walker_Ovoids
+      visual: Blurry_Luminous_Eggs
+      habitat: Dream_Bubbles_Drifting
+      threat_level: LOW
+      note: Living humans in REM phase
+    habit_loopers:
+      behavior: 9-5_Commute_Simulation
+      visual: Semi_Transparent_Grey
+      habitat: Phantom_Cities
+      threat_level: NONE
+      note: Do not realize they are dead
+  non_human:
+    nature_spirits:
+      type: Etheric_Builders
+      visual: Iridescent_Sparks_Swarms
+      function: Structural_Engineers
+      diet: Ambient_Prana
+    artificial_elementals:
+      type: Unconscious_Thought_Forms
+      origin: Human_Hatred_Fear
+      visual: Gelatinous_Blobs_Static_Clouds
+      function: Emotional_Scavengers
+      threat_level: HIGH
+    violet_devas:
+      type: Construction_Crew
+      visual: Flash_Violet_Light
+      function: Astral_Body_Weavers
+      access: Cross_Plane_Mobility
+  religious_constructs:
+    golden_city:
+      archetype: Western_Christian_Heaven
+      rendering_engine: Collective_Scriptural_Expectation
+      trap: Zero_Evolution_Stasis
+    pure_land:
+      archetype: Eastern_Devachan
+      geometry: Fractal_Temples
+      trap: Ego_Dissolution_Paradox
+    gardens_delight:
+      archetype: Islamic_Jannah
+      feature: Zero_Entropy_Oasis
+      trap: Compensation_Engine_Stagnation
