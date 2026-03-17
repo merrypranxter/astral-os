@@ -1,0 +1,6 @@
+property,plane_2_scavenger,plane_3_middle,plane_4_concrete
+Density,0.8,0.45,0.1
+Viscosity,0.9,0.45,0.0
+Emissive_Ratio,0.1,0.4,0.9
+Shadow_Type,Heavy_Static,Liquid_Pooling,None_Interference
+Movement_Feel,Mud_Heavy_Oil,Warm_Water,Zero_Resistance

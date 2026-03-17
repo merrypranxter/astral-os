@@ -1,0 +1,110 @@
+{
+  "swarm_patterns": {
+    "boid_synchronized": {
+      "description": "Fish-like schools with spiral motion",
+      "parameters": {
+        "count": 50,
+        "separation": 0.8,
+        "cohesion": 0.4
+      },
+      "visual_output": "trailing_light_ribbons",
+      "use_cases": [
+        "glimmer_swarms",
+        "aura_lice_infestation"
+      ]
+    },
+    "converge_burst": {
+      "description": "Collapse to point then explosive dispersal",
+      "trigger": "emotional_peak",
+      "timing": "fast_converge_slow_disperse",
+      "visual": "implosion_explosion_light"
+    },
+    "orbital_drift": {
+      "description": "Slow circular motion with vertical sink",
+      "parameters": {
+        "radius": 2.0,
+        "sink_rate": 0.1
+      },
+      "use_cases": [
+        "habit_loops",
+        "echo_bloom_rotation"
+      ]
+    }
+  },
+  "liquid_patterns": {
+    "shadow_pooling": {
+      "description": "Syrup-like accumulation at entity bases",
+      "viscosity": 0.8,
+      "flow_direction": "downhill_emotional_gradient",
+      "color": "#2F4F4F"
+    },
+    "desire_vortex": {
+      "description": "Swirling emotional gravity well",
+      "rotation_speed": "emotion_dependent",
+      "gradient": [
+        "#8B0000",
+        "#FF1493",
+        "#9400D3"
+      ],
+      "physics": "centripetal_force_sim"
+    },
+    "viscosity_resistance": {
+      "description": "Movement against currents",
+      "with_current": "zero_drag",
+      "against_current": "heavy_curtain_resistance",
+      "transition": "gradual_blend"
+    }
+  },
+  "formation_patterns": {
+    "crystallization": {
+      "description": "Smoke-to-solid transition",
+      "stages": [
+        "gas",
+        "liquid",
+        "crystal"
+      ],
+      "audio": "popping_knuckles",
+      "visual": "geometric_snap_freeze"
+    },
+    "wireframe_growth": {
+      "description": "90-degree constrained expansion",
+      "angle_snap": 90,
+      "color": "neon_green_blue",
+      "physics": "tension_oscillation_432Hz"
+    },
+    "morphing_incomplete": {
+      "description": "Never-settling form shifts",
+      "targets": [
+        "face_1",
+        "face_2",
+        "face_3"
+      ],
+      "blend": "perpetual_interpolation",
+      "use_case": "desire_golems"
+    }
+  },
+  "light_patterns": {
+    "bioluminescent_pulse": {
+      "description": "3-second cycle breathing",
+      "curve": "sine_ease_in_out",
+      "min": 0.3,
+      "max": 1.0,
+      "use_cases": [
+        "resonance_kelp",
+        "ley_line_markers"
+      ]
+    },
+    "mirror_specular": {
+      "description": "High-reflectivity synchronized motion",
+      "specular_power": 32,
+      "reflection_type": "environment_map",
+      "use_case": "glimmer_swarms"
+    },
+    "violet_point_glow": {
+      "description": "Localized pit illumination",
+      "color": "#9400D3",
+      "falloff": "exponential_20x",
+      "use_case": "ley_line_eels"
+    }
+  }
+}

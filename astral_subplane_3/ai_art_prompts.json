@@ -1,0 +1,36 @@
+{
+  "environment_base": {
+    "subject": "Astral Sub-Plane 3, Middle Underlayer",
+    "style": "psychedelic digital art, mathy geometry, bioluminescent",
+    "technical": "translucent 3D depth, semi-emissive surfaces, 0.45 density",
+    "color_refs": "deep amber #FF6F00, violet-red #8B0046, sea green #2E8B57, oil slick iridescence",
+    "lighting": "no sun, self-emissive objects 40%, liquid shadows pooling",
+    "atmosphere": "crystallization pops, ozone copper scent, warm wax texture"
+  },
+  "entities": {
+    "glimmer_swarm": "schools of mirror-bright fish-like lights, synchronized spirals, silk brushing texture, aluminum mint taste, high specular reflection, boid algorithm motion",
+    "ley_line_eels": "translucent ribbons 3-6ft long, violet glowing sensory pits, swimming through phosphorescent rivers, violet #9400D3 accents, emotional turbulence",
+    "memory_moths": "hand-sized pulsing white triangles, upward-falling dust trails, paper tearing sound, burnt sugar taste, soft glow #FFFAFA",
+    "desire_golems": "viscous half-formed humanoids, shifting between 2-3 faces, bathroom glass distortion, greasy cold texture, rotting fruit scent #8B4513 #8B0000",
+    "resonance_kelp": "undulating ribbons jade and amber, bioluminescent 3sec pulses, cool slimy aloe texture, ozone fresh rain scent, underwater physics"
+  },
+  "phenomena": {
+    "color_threshold": "oil slick iridescence, heat shimmer distortion, soap bubble wall, boundary between grey and color",
+    "desire_vortex": "swirling pool emotional frequency, liquid shadow syrup, gradient deep red to violet, gravity well effect",
+    "echo_blooms": "floating geometric snowflakes, crystallized sound, frozen fireworks, static cling texture, suspended in air",
+    "geometric_vines": "neon green blue wires, 90 degree angles, guitar string tension, 432Hz hum visualization, CAD wireframe aesthetic"
+  },
+  "shader_specific": {
+    "viscosity_sim": "liquid simulation, 0.45 viscosity, warm water resistance, silicone deformation",
+    "emissive_mix": "40% self-illuminated, 60% reflected, volumetric lighting, bioluminescent",
+    "shadow_pooling": "liquid shadows, syrup flow downhill, emotional residue, viscosity 0.8",
+    "formation_noise": "crystallization pops, knuckles cracking audio-visual synesthesia"
+  },
+  "negative_prompts": [
+    "solid opaque",
+    "hard shadows",
+    "photorealistic",
+    "earth physics",
+    "daylight sun"
+  ]
+}

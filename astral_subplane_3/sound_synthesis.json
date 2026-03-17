@@ -1,0 +1,58 @@
+{
+  "ambient_base": {
+    "crystallization_pops": {
+      "type": "synthesized_impulse",
+      "frequency_range": [
+        2000,
+        8000
+      ],
+      "envelope": "sharp_attack_fast_decay",
+      "rate": "poisson_distribution_0.5_to_3_sec",
+      "timbre": "ice_cracking_glass"
+    },
+    "emotional_weather": {
+      "grief": {
+        "drone": "low_sine_60Hz",
+        "filter": "low_pass_dark"
+      },
+      "anxiety": {
+        "whistle": "sweeping_high_2k_to_8k",
+        "tremolo": "fast_6Hz"
+      },
+      "concentration": {
+        "hum": "deep_432Hz",
+        "overtone": "perfect_fifth"
+      }
+    }
+  },
+  "entity_voices": {
+    "ley_line_eel": {
+      "passive": "smooth_sine_morph_100Hz_to_300Hz",
+      "turbulence": "chaotic_fm_synthesis",
+      "transfer": "bell_like_chime_harmonic_series"
+    },
+    "memory_moth": {
+      "flight": "paper_tearing_noise_band_1k_to_4k",
+      "trail": "falling_sine_drop_8k_to_100Hz",
+      "pulse": "heartbeat_rhythmic_60BPM"
+    },
+    "geometric_vine": {
+      "hum": "pure_sine_432Hz",
+      "pluck": "karplus_strong_string_resonance",
+      "vibration": "am_tremolo_440Hz_carrier"
+    }
+  },
+  "interaction_sfx": {
+    "viscosity_pass": "whoosh_low_pass_filtered_by_density",
+    "sticky_attach": "tape_pull_stretch_resonance",
+    "emotional_transfer": "sine_sweep_frequency_match",
+    "boundary_cross": "sweep_up_or_down_by_direction"
+  },
+  "frequencies": {
+    "ley_line_resonance": 432,
+    "hum_flies": 440,
+    "geometric_vine_base": 432,
+    "glimmer_resonance": "variable_chaos",
+    "plane_hum": "binaural_beat_4Hz_theta"
+  }
+}

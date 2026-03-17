@@ -1,0 +1,10 @@
+parameter,plane_3_value,plane_2_reference,plane_4_reference,notes
+density,0.45,0.8,0.1,semi-fluid
+viscosity,0.45,0.9,0.0,warm_water_consistency
+emissive_ratio,0.4,0.1,0.9,40%_self_lit
+reflective_ratio,0.6,0.3,0.1,60%_reflected
+transparency_layers,3,1,4,2-3_layers_visible
+shadow_liquid_viscosity,0.8,1.0,0.0,syrup_flow
+hum_frequency_hz,432,none,none,geometric_vines_resonance
+glimmer_cycle_sec,3,none,none,bioluminescent_pulse
+echo_bloom_decay,slow,fast,static,suspended_geometric

@@ -1,0 +1,63 @@
+{
+  "high_energy_excitement": {
+    "entities": [
+      "Glimmer-Swarms",
+      "Memory-Moths"
+    ],
+    "colors": [
+      "#FFD700",
+      "#FFFAFA"
+    ],
+    "sensory": "warm_sunlight_copper_taste",
+    "physics": "zero_resistance_with_current"
+  },
+  "desire_craving": {
+    "entities": [
+      "Desire-Golems",
+      "Desire-Vortexes"
+    ],
+    "colors": [
+      "#8B0000",
+      "#FF1493",
+      "#9400D3"
+    ],
+    "sensory": "greasy_cold_rotting_fruit",
+    "physics": "viscous_sticky_high_resistance"
+  },
+  "contemplation_melancholy": {
+    "entities": [
+      "Echo-Blooms",
+      "Cool-Zones"
+    ],
+    "colors": [
+      "#ADD8E6",
+      "#B0E0E6"
+    ],
+    "sensory": "cool_marble_stale_water",
+    "physics": "slow_drift_low_energy"
+  },
+  "anxiety_scatter": {
+    "entities": [
+      "Glitch-Flies",
+      "Distraction-Clouds"
+    ],
+    "colors": [
+      "#A9A9A9",
+      "#00FFFF"
+    ],
+    "sensory": "prickling_static_TV_noise",
+    "physics": "chaotic_unpredictable"
+  },
+  "repetitive_stuck": {
+    "entities": [
+      "Habit-Loops",
+      "Automatons"
+    ],
+    "colors": [
+      "#696969",
+      "#8B4513"
+    ],
+    "sensory": "sticky_tape_stale_air",
+    "physics": "circular_motion_no_progress"
+  }
+}

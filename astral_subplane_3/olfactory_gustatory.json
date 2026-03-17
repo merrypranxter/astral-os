@@ -1,0 +1,26 @@
+{
+  "atmosphere": "ozone_heated_copper",
+  "meaning": "scent_of_energy_organizing_into_matter",
+  "emotional_tastes": {
+    "copper_blood": "aggressive_thought_forms_nearby",
+    "honey_metal": "creative_inspiration_zones",
+    "stale_water": "residual_emotional_trauma"
+  },
+  "entity_scents": {
+    "desire_golems": "rotting_fruit_sickly_sweet",
+    "habit_loops": "stale_air_unwashed_clothes_dust",
+    "glitch_flies": "ozone_metallic",
+    "aura_lice": "wet_fur_ozone",
+    "distraction_clouds": "hot_electronics_burning_dust_stale_coffee",
+    "resonance_kelp": "ozone_fresh_rain",
+    "echo_blooms": "none_directly_but_sweet_after_absorption",
+    "static_lichen": "frying_bacon_dead_radio_frequency",
+    "grey_mites": "dusty_old_attic_stagnant_thoughts"
+  },
+  "absorption_method": "osmosis_through_astral_skin",
+  "sensation": "tingling_effervescent_mist_coating",
+  "trail_tastes": {
+    "memory_moths": "burnt_sugar_pencil_shavings",
+    "glimmer_swarms": "aluminum_mint"
+  }
+}

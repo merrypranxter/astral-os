@@ -1,0 +1,18 @@
+{
+  "eel_complete": [
+    "ley_line_eel_body",
+    "ley_line_eel_pits"
+  ],
+  "kelp_field": [
+    "resonance_kelp",
+    "shadow_liquid"
+  ],
+  "boundary_zone": [
+    "oil_slick_boundary",
+    "glimmer_swarm_surface"
+  ],
+  "golem_encounter": [
+    "desire_golem_viscous",
+    "shadow_liquid"
+  ]
+}

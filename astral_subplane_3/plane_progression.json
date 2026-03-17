@@ -1,0 +1,110 @@
+{
+  "physics_comparison": {
+    "property": [
+      "Density",
+      "Viscosity",
+      "Emissive_Ratio",
+      "Shadow_Type",
+      "Movement_Feel"
+    ],
+    "plane_2_scavenger": [
+      0.8,
+      0.9,
+      0.1,
+      "Heavy_Static",
+      "Mud_Heavy_Oil"
+    ],
+    "plane_3_middle": [
+      0.45,
+      0.45,
+      0.4,
+      "Liquid_Pooling",
+      "Warm_Water"
+    ],
+    "plane_4_concrete": [
+      0.1,
+      0.0,
+      0.9,
+      "None_Interference",
+      "Zero_Resistance"
+    ]
+  },
+  "entity_evolution": {
+    "entity_type": [
+      "Thought_Form",
+      "Shadow",
+      "Light_Source",
+      "Emotional_State"
+    ],
+    "plane_2": [
+      "Decaying_Shells",
+      "Static_Dark",
+      "Absorbed_Dull",
+      "Stagnant_Trauma"
+    ],
+    "plane_3": [
+      "Coalescing_PreMatter",
+      "Liquid_Pooling",
+      "Semi_Emissive",
+      "Fluid_Desire"
+    ],
+    "plane_4": [
+      "Crystallized_Concrete",
+      "Interference_Pattern",
+      "Self_Emissive",
+      "Structured_Thought"
+    ]
+  },
+  "color_temperature": {
+    "aspect": [
+      "Dominant_Hues",
+      "Saturation",
+      "Brightness_Range",
+      "Transition_Behavior"
+    ],
+    "plane_2": [
+      "Brown_Grey_Black",
+      "Low_Muted",
+      "0.1-0.4",
+      "Sudden_Break"
+    ],
+    "plane_3": [
+      "Amber_Violet_Jade",
+      "Medium_High",
+      "0.3-0.8",
+      "Oil_Slick_Gradient"
+    ],
+    "plane_4": [
+      "Sapphire_Gold_White",
+      "High_Vivid",
+      "0.7-1.0",
+      "Crystalline_Snap"
+    ]
+  },
+  "hazard_progression": {
+    "hazard_type": [
+      "Entrapment",
+      "Entity_Threat",
+      "Cognitive_Risk",
+      "Escape_Difficulty"
+    ],
+    "plane_2": [
+      "Muck_Stuck",
+      "Scavenger_Swarms",
+      "Memory_Loss",
+      "Near_Impossible"
+    ],
+    "plane_3": [
+      "Sticky_Current",
+      "Desire_Golems",
+      "Mirror_Manifest",
+      "Requires_Shift"
+    ],
+    "plane_4": [
+      "Logic_Lock",
+      "Thought_Police",
+      "Over_Structuring",
+      "Drop_Emotion"
+    ]
+  }
+}

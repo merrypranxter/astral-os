@@ -1,0 +1,40 @@
+{
+  "plane_visual_signature": "forming_phenomena_pre-matter",
+  "transparency_rules": {
+    "mode": "3D_depth_bleed",
+    "layers_visible": "2-3_simultaneous",
+    "full_4D": false,
+    "note": "between_2D_opaque_and_4D_transparent"
+  },
+  "color_dynamics": {
+    "palette": [
+      "deep_amber",
+      "violet_reds",
+      "sea_greens"
+    ],
+    "emotional_primaries": [
+      "anger",
+      "desire",
+      "devotion",
+      "jealousy"
+    ],
+    "state": "fluid_before_crystallization",
+    "emissive_ratio": 0.4,
+    "reflection": 0.6
+  },
+  "shadow_behavior": {
+    "type": "liquid",
+    "movement": "pool_at_feet_flow_downhill_syrup",
+    "meaning": "unprocessed_emotional_residue"
+  },
+  "boundary_phenomena": {
+    "color_threshold": "oil_slick_iridescence_heat_shimmer",
+    "plane4_interface": "soap_bubble_living_wall"
+  },
+  "specific_phenomena": {
+    "glimmer_swarms": "mirror_bright_synchronized_spirals",
+    "ley_line_rivers": "pulsing_phosphorescent_waterways",
+    "desire_vortexes": "swirling_pools_emotional_frequencies",
+    "dew_point_fields": "condensed_glimmer_spore_clouds"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "plane_3_constants": {
+    "density_coefficient": 0.45,
+    "viscosity": 0.45,
+    "emissive_ratio": 0.4,
+    "reflective_ratio": 0.6,
+    "transparency_layers": 3,
+    "shadow_liquid_viscosity": 0.8,
+    "rebound_time_seconds": 3,
+    "hum_frequency": 432,
+    "glimmer_cycle_seconds": 3
+  },
+  "shader_mappings": {
+    "density_to_opacity": "density * 0.6 + 0.2",
+    "emissive_to_glow": "emissive_ratio * intensity * 2.5",
+    "viscosity_to_blur": "viscosity * 0.8",
+    "shadow_pooling": "gravity_affected_liquid_sim",
+    "color_transition": "heat_shimmer_distortion_oil_slick",
+    "formation_noise": "crystallization_pop_frequency"
+  },
+  "transition_zones": {
+    "plane_2_to_3_boundary": {
+      "visual": "grey_to_color_threshold",
+      "viscosity_shift": 0.8,
+      "emissive_shift": 0.2
+    },
+    "plane_3_to_4_boundary": {
+      "visual": "oil_slick_iridescence",
+      "viscosity_drop": 0.0,
+      "emissive_jump": 0.9,
+      "transparency_shift": "3D_to_4D"
+    }
+  },
+  "entity_physics": {
+    "glimmer_swarms": {
+      "particle_count": "high",
+      "motion": "boid_synchronized_spiral",
+      "emissive": "mirror_reflective_high_specular"
+    },
+    "ley_line_eels": {
+      "path_following": "spline_constraint",
+      "length": "3-6_units",
+      "transparency": "0.7",
+      "glow": "violet_pits_point_lights"
+    },
+    "geometric_vines": {
+      "angle_constraint": "90_degrees",
+      "tension": "guitar_string_physics",
+      "color": "neon_green_blue_emissive"
+    }
+  }
+}

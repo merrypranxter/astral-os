@@ -1,0 +1,80 @@
+{
+  "glimmer_swarms": {
+    "ai_type": "boid_algorithm",
+    "parameters": {
+      "separation": 0.8,
+      "alignment": 0.6,
+      "cohesion": 0.4,
+      "perception_radius": 5.0,
+      "max_speed": 2.5,
+      "max_force": 0.1
+    },
+    "emotional_trigger": {
+      "detection_radius": 10.0,
+      "swarm_intensity": "exponential_with_emotion_strength",
+      "feeding_behavior": "consume_then_disperse"
+    },
+    "state_machine": [
+      "idle_drift",
+      "detect_emotion",
+      "swarm_converge",
+      "feed_synchronize",
+      "disperse_burst"
+    ],
+    "visual_output": "trailing_light_ribbons"
+  },
+  "ley_line_eels": {
+    "ai_type": "spline_path_follower",
+    "parameters": {
+      "path_constraint": "ley_line_network",
+      "speed": "emotion_dependent",
+      "acceleration": "smooth_ease_in_out"
+    },
+    "interaction_states": {
+      "passive": "flow_along_path",
+      "blocked": "generate_turbulence",
+      "feeding": "transfer_emotional_state"
+    },
+    "turbulence_effect": {
+      "radius": 3.0,
+      "intensity": 0.7,
+      "duration_seconds": 5,
+      "visual": "chaotic_ribbon_flailing"
+    }
+  },
+  "desire_golems": {
+    "ai_type": "seeker_incomplete",
+    "parameters": {
+      "target": "matching_frequency",
+      "speed": "slow_viscous_0.3",
+      "persistence": "high",
+      "completion_threshold": "never_reached"
+    },
+    "morph_targets": {
+      "faces": [
+        "lust",
+        "envy",
+        "greed"
+      ],
+      "blend_duration": 2.5
+    },
+    "attachment_mechanic": {
+      "range": 2.0,
+      "stickiness": 0.9,
+      "drain_rate": "0.05_per_second"
+    }
+  },
+  "habit_loops": {
+    "ai_type": "circular_motion",
+    "parameters": {
+      "radius_variance": 0.2,
+      "spin_speed": "constant_medium",
+      "vertical_drift": "slow_sink"
+    },
+    "adhesion": {
+      "trigger": "similar_frequency_proximity",
+      "stick_duration": "until_threshold_crossed",
+      "detach_difficulty": "requires_rapid_emotional_shift"
+    }
+  }
+}

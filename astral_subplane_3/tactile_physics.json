@@ -1,0 +1,28 @@
+{
+  "surface_texture": "warm_wax_silicone",
+  "memory": "holds_impression_seconds_before_rebound",
+  "resistance_levels": {
+    "with_current": "zero_resistance_sliding_down_rail",
+    "against_current": "heavy_curtains"
+  },
+  "density_gradients": {
+    " Plane_2_to_3": "heavy_oil_to_warm_water",
+    " Plane_3_to_4": "water_to_zero_resistance"
+  },
+  "specific_feels": {
+    "glimmer_swarms": "silk_brushing",
+    "resonance_kelp": "cool_slimy_aloe_refreshing",
+    "ley_line_eels_pass_through": "forced_emotional_state_shock",
+    "desire_golems": "greasy_cold_bacon_fat",
+    "habit_loops": "sticky_old_tape",
+    "echo_blooms": "static_cling",
+    "geometric_vines": "guitar_string_tension",
+    "sticky_current_trap": "viscosity_increases_with_time",
+    "prickling_zones": "static_electricity_predatory"
+  },
+  "thermal_feedback": {
+    "warm_sunlight": "creative_energy_sexual_desire_artistic",
+    "cool_marble": "contemplation_melancholy",
+    "prickling_static": "danger_predatory_presence"
+  }
+}

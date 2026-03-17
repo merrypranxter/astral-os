@@ -1,0 +1,68 @@
+{
+  "bioluminescent_organic": {
+    "entities": [
+      "Resonance-Kelp",
+      "Ley-Line-Eels",
+      "Glimmer-Swarms"
+    ],
+    "keywords": [
+      "pulsing",
+      "glowing",
+      "translucent",
+      "flowing"
+    ],
+    "reference_style": "deep_sea_creature_documentary"
+  },
+  "geometric_crystalline": {
+    "entities": [
+      "Echo-Blooms",
+      "Geometric-Vines"
+    ],
+    "keywords": [
+      "angles",
+      "wireframe",
+      "snowflakes",
+      "CAD"
+    ],
+    "reference_style": "tech_noir_blade_runner_ui"
+  },
+  "viscous_gross": {
+    "entities": [
+      "Desire-Golems",
+      "Shadow-Liquid"
+    ],
+    "keywords": [
+      "melting",
+      "stretching",
+      "greasy",
+      "organic_decay"
+    ],
+    "reference_style": "practical_effects_the_thing_1982"
+  },
+  "glitch_digital": {
+    "entities": [
+      "Glitch-Flies",
+      "Distraction-Clouds"
+    ],
+    "keywords": [
+      "flickering",
+      "noise",
+      "artifacts",
+      "static"
+    ],
+    "reference_style": "glitch_art_datamoshing"
+  },
+  "iridescent_boundary": {
+    "entities": [
+      "Color-Threshold",
+      "Oil-Slick-Wall"
+    ],
+    "keywords": [
+      "soap_bubble",
+      "oil_slick",
+      "holographic",
+      "shimmer"
+    ],
+    "reference_style": "macro_photography_oil_on_water"
+  }
+}

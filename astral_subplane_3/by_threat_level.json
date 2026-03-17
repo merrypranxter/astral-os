@@ -1,0 +1,41 @@
+{
+  "benign_beneficial": {
+    "level": 0,
+    "entities": [
+      "Memory-Moths",
+      "Echo-Blooms",
+      "Aura-Lice"
+    ],
+    "interaction": "cross_pollination_recording_cleaning",
+    "strategy": "allow_encourage"
+  },
+  "neutral_avoidable": {
+    "level": 1,
+    "entities": [
+      "Ley-Line-Eels",
+      "Glimmer-Swarms",
+      "Resonance-Kelp"
+    ],
+    "interaction": "transport_filter_process",
+    "strategy": "navigate_around"
+  },
+  "hazard_sticky": {
+    "level": 2,
+    "entities": [
+      "Habit-Loops",
+      "Distraction-Clouds",
+      "Sticky-Currents"
+    ],
+    "interaction": "attachment_confusion_slow",
+    "strategy": "rapid_shift_or_avoid"
+  },
+  "dangerous_predatory": {
+    "level": 3,
+    "entities": [
+      "Desire-Golems",
+      "Aura-Fragmentation-Risk"
+    ],
+    "interaction": "drain_attachment_loss",
+    "strategy": "shield_escape_disconnect"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "background_texture": "crystallization_pops_knuckles_cracking",
+  "meaning": "audio_signature_of_thought_forms_coalescing",
+  "emotional_weather": {
+    "low_drone": "grief_stagnation",
+    "sharp_whistling": "anxiety_scattered_thoughts",
+    "deep_humming": "concentration_focused_will"
+  },
+  "proximity_sonar": {
+    "nearby": "bass_frequencies",
+    "distant": "high_frequency_chimes"
+  },
+  "entity_sounds": {
+    "memory_moths": "paper_tearing",
+    "ley_line_eels": "emotional_turbulence_audio",
+    "glitch_flies": "TV_static_white_noise_440Hz",
+    "echo_blooms": "reverb_specific_notes",
+    "geometric_vines": "constant_432Hz_hum_pluckable_notes",
+    "geometric_vines_pluck": "musical_note_generation"
+  },
+  "voice_protocols": "telepathic_burst_intent_ingestion",
+  "sound_color_transduction": "movement_generates_sound_thought_generates_color"
+}

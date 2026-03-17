@@ -1,0 +1,59 @@
+{
+  "resonance_kelp": {
+    "cycle_duration": 3.0,
+    "keyframes": [
+      {
+        "time": 0.0,
+        "opacity": 0.3,
+        "scale": 1.0
+      },
+      {
+        "time": 1.5,
+        "opacity": 1.0,
+        "scale": 1.05
+      },
+      {
+        "time": 3.0,
+        "opacity": 0.3,
+        "scale": 1.0
+      }
+    ],
+    "wave_function": "sine",
+    "wave_speed": 0.5,
+    "wave_amplitude": 0.2,
+    "secondary_motion": "current_drift"
+  },
+  "memory_moth_trails": {
+    "particle_lifetime": 4.0,
+    "fade_curve": "ease_out_quad",
+    "gravity": -0.1,
+    "turbulence": 0.2,
+    "color_shift": "white_to_amber"
+  },
+  "geometric_vines": {
+    "tension_oscillation": {
+      "frequency": 432,
+      "amplitude": 0.1,
+      "damping": 0.95
+    },
+    "pluck_response": {
+      "decay": 2.0,
+      "vibration": "high_freq_wobble",
+      "color_flash": "brightness_increase_50%"
+    }
+  },
+  "plane_ambient": {
+    "crystallization_pops": {
+      "frequency_range": [
+        0.5,
+        3.0
+      ],
+      "random_distribution": "poisson",
+      "visual_burst_duration": 0.3
+    },
+    "emotional_weather_shift": {
+      "blend_duration": 10.0,
+      "curves": "perlin_noise_driven"
+    }
+  }
+}

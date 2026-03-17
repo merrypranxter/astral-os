@@ -1,0 +1,5 @@
+aspect,plane_2,plane_3,plane_4
+Dominant_Hues,Brown_Grey_Black,Amber_Violet_Jade,Sapphire_Gold_White
+Saturation,Low_Muted,Medium_High,High_Vivid
+Brightness_Range,0.1-0.4,0.3-0.8,0.7-1.0
+Transition_Behavior,Sudden_Break,Oil_Slick_Gradient,Crystalline_Snap

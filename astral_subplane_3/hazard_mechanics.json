@@ -1,0 +1,50 @@
+{
+  "sticky_current_trap": {
+    "trigger": "dwell_time_in_emotional_eddy",
+    "mechanic": {
+      "viscosity_increase_rate": "0.1_per_second",
+      "escape_methods": [
+        "rapid_emotional_shift_laughter",
+        "rapid_emotional_shift_anger",
+        "rapid_emotional_shift_shock"
+      ],
+      "failure_state": "sink_to_plane_2"
+    },
+    "visual_feedback": "slowing_movement_increasing_blur"
+  },
+  "mirror_manifestation": {
+    "trigger": "expectation_of_danger",
+    "mechanic": {
+      "manifestation_delay": 2.0,
+      "entity_type": "thought_form_projected",
+      "strength": "proportional_to_fear_intensity"
+    },
+    "counter": "discipline_clear_intent"
+  },
+  "aura_fragmentation": {
+    "trigger": "contact_with_half_formed_entity",
+    "effect": {
+      "aura_loss": "temporary_piece_taken",
+      "symptom": "incomplete_feeling_return",
+      "recovery": "meditation_or_plane_4_exposure"
+    }
+  },
+  "distraction_cloud": {
+    "trigger": "passing_through_grey_puff",
+    "effect": {
+      "cognitive": "scattered_attention_17_tabs",
+      "duration": 30.0,
+      "stacking": "increases_confusion"
+    },
+    "resist": "focused_single_point_concentration"
+  },
+  "desire_golem_attachment": {
+    "trigger": "proximity_to_matching_frequency",
+    "mechanic": {
+      "stickiness": 0.9,
+      "drain_rate": "0.05_per_second",
+      "compulsion_carryover": "physical_plane_behaviors"
+    },
+    "escape": "shift_frequency_or_force_disconnect"
+  }
+}
