@@ -1,0 +1,109 @@
+{
+  "radioactive_mechanics": {
+    "uranium_instability": {
+      "anu_count": 4267,
+      "geometry": "OVERCLOCKED_OCTAHEDRON",
+      "failure_mode": "CENTRIFUGAL_OVERFLOW",
+      "threshold": "ETHERIC_TENSION_EXCEEDED",
+      "description": "Funnels so packed with Anu that centrifugal force exceeds Etheric Tension holding structure closed",
+      "ghost_view": "Raw unformatted data ejected at high velocity = corrupted code hitting stable systems",
+      "emission_types": {
+        "alpha": {
+          "data_type": "HELIUM_NUCLEUS_PACKET",
+          "velocity": "HIGH",
+          "damage": "STRUCTURAL_DISASSEMBLY",
+          "anu_count": 72
+        },
+        "beta": {
+          "data_type": "ELECTRON_STREAM",
+          "velocity": "MEDIUM",
+          "damage": "CHEMICAL_BOND_DISRUPTION"
+        },
+        "gamma": {
+          "data_type": "HIGH_FREQ_DATA_SPIKES",
+          "velocity": "LIGHT_SPEED",
+          "damage": "ETHERIC_WEB_SHREDDING",
+          "result": "FIREWALL_BREACH"
+        }
+      }
+    },
+    "decay_chain_u238": {
+      "sequence": [
+        {"element": "U-238", "anu": 4267},
+        {"element": "Th-234", "anu": 4212},
+        {"element": "Pa-234", "anu": 4212},
+        {"element": "U-234", "anu": 4212},
+        {"element": "Th-230", "anu": 4140},
+        {"element": "Ra-226", "anu": 4068},
+        {"element": "Rn-222", "anu": 3996},
+        {"element": "Po-218", "anu": 3924},
+        {"element": "Pb-214", "anu": 3852},
+        {"element": "Bi-214", "anu": 3852},
+        {"element": "Po-214", "anu": 3780},
+        {"element": "Pb-210", "anu": 3780},
+        {"element": "Bi-210", "anu": 3708},
+        {"element": "Po-210", "anu": 3636},
+        {"element": "Pb-206", "anu": 3708}
+      ],
+      "terminal_state": "LEAD_206",
+      "terminal_function": "DEAD_STORAGE",
+      "data_loss": "CUMULATIVE_ANU_SHEDDING",
+      "description": "Each step = shedding data packets (Anu) back into Koilon void"
+    },
+    "critical_mass_anomaly": {
+      "trigger": "URANIUM_DENSITY_WITHOUT_NOBLE_ANCHORING",
+      "result": "BUFFER_OVERFLOW_INTERNAL_FLAME",
+      "failure": "SPONTANEOUS_COMBUSTION",
+      "system_response": "TERMINAL_REDACTION",
+      "mechanism": "Phosphorus/Sulfur ignition without Platinum shielding",
+      "prevention": "PLATINUM_MEISSNER_FIELD_REQUIRED"
+    },
+    "plutonium_malware": {
+      "geometry": "Asymmetric octahedron - lost symmetry from force-fed data packets",
+      "function": "Illegal executable, simulation cannot render permanently",
+      "malware_property": "Specifically tuned to shatter Etheric Web so thoroughly that Ghost cannot re-anchor for multiple generations",
+      "dead_zone_creation": "Local reality corruption persisting beyond single Terminal lifecycle"
+    },
+    "radium_glow": {
+      "observation": "Radium glows in dark",
+      "underlayer": "E2 (Sub-Atomic) plane bleeding into Physical (E4)",
+      "nature": "Astral Friction of ejected Anu hitting Koilon at E4/E3 boundary",
+      "clarification": "Not light—dimensional leakage"
+    },
+    "etheric_web_shredding": {
+      "gamma_rays": {
+        "mechanic": "Don't pass through Etheric Web—they shatter the chainmail",
+        "physical_symptom": "Radiation sickness",
+        "underlayer": "Etheric Double (BIOS) leaks out of holes; Ghost loses Iron anchor",
+        "critical_threshold": ">50% Web integrity loss = Terminal cannot maintain consciousness-matter interface"
+      }
+    }
+  },
+  "system_crash_protocols": {
+    "spontaneous_combustion": {
+      "trigger": "LAYA_CENTER_PULL_WITHOUT_PLATINUM_DEBUGGER",
+      "mechanism": "PHOSPHORUS_BUFFER_OVERFLOW",
+      "sequence": [
+        "GHOST_ATTEMPTS_DIRECT_E1_DOWNLOAD",
+        "PHOSPHORUS_IGNITION_RPM_EXCEEDS_CARBON_CHASSIS_LIMIT",
+        "SULFUR_CHAIN_REACTION_IN_FAT_TISSUE",
+        "INTERNAL_FLAME_BECOMES_EXTERNAL",
+        "TERMINAL_FLASH_FRY",
+        "LEAD_RESIDUE_ONLY"
+      ],
+      "prevention": "PLATINUM_MEISSNER_FIELD_REQUIRED",
+      "critical_threshold": "10^12_COMPRESSION_WITHOUT_SHIELDING"
+    },
+    "critical_mass_meltdown": {
+      "trigger": "URANIUM_DENSITY > NOBLE_ANCHOR_CAPACITY",
+      "mechanism": "RADIANCE_CASCADE",
+      "stages": {
+        "stage_1": "ETHERIC_WEB_SHREDDING_50%",
+        "stage_2": "IRON_ANCHOR_DECOUPLING",
+        "stage_3": "CONSCIOUSNESS_DE_SYNC",
+        "stage_4": "SYSTEM_REDACTION_BURNER_TERMINAL"
+      },
+      "mitigation": "IMMEDIATE_LEAD_INSERTION_OR_DISTRIBUTION"
+    }
+  }
+}
