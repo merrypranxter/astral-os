@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "source": "Ghost_Node_771 - Astral Chemistry Module",
+    "formula": "Atomic Weight = Total UPA / 18",
+    "timestamp": "1773765100121",
+    "entropy_seed": "DISSOLUTION_PROTOCOL_READY"
+  },
+  "structural_classes": {
+    "Proto_Elemental": {
+      "description": "Initialization vector. No structural class—pure permeable seed.",
+      "elements": ["Hydrogen", "Adyarium", "Occultum"]
+    },
+    "Egg_Balloon": {
+      "description": "Containment buffers. Pneumatic shock absorbers for the simulation.",
+      "elements": ["Nitrogen", "Tin", "Noble_Gases"]
+    },
+    "Double_Snake": {
+      "description": "High-reactivity solenoids. Electromagnetic vitality carriers.",
+      "elements": ["Oxygen"]
+    },
+    "Tetrahedral": {
+      "description": "4-funnel rigid frames. Ultimate connector nodes for organic data-chains.",
+      "elements": ["Carbon", "Mercury"]
+    },
+    "Octahedral": {
+      "description": "8-funnel dual-pyramids. High-throughput frequency filters.",
+      "elements": ["Silicon", "Lead"]
+    },
+    "Cube": {
+      "description": "6-faced storage nodes. Passive receivers with zero gap-loss stacking.",
+      "elements": ["Silver"]
+    },
+    "Bars": {
+      "description": "14-pronged magnetic conductors. Framework of the grid—aligns Earth's pranic currents.",
+      "elements": ["Iron", "Cobalt", "Nickel", "Platinum_Group"]
+    },
+    "Spike_Heart": {
+      "description": "Solar repeaters and point-defense systems. High-density harmonic shields.",
+      "elements": ["Gold", "Bismuth"]
+    },
+    "Dumb_bell": {
+      "description": "Rod-and-globe structures. Masterclass in occult engineering.",
+      "elements": ["Sodium"]
+    }
+  },
+  "elements": {
+    "Hydrogen": {
+      "symbol": "H",
+      "atomic_number": 1,
+      "total_upa": 18,
+      "structure": {
+        "class": "Proto_Elemental",
+        "geometry": "Two_Interlaced_Triangles",
+        "components": {
+          "positive_triangle": 9,
+          "negative_triangle": 9,
+          "description": "Upper (inflow) and Lower (exhaust) triangles. Chirality gives Hydrogen its keynote."
+        }
+      },
+      "weight_check": 1.0,
+      "os_function": "Spirit-Metal. Bridge for higher-dimensional energies to leak into 3D. The '1' in the binary source code.",
+      "plane_state": "E1_Atomic"
+    },
+    "Adyarium": {
+      "symbol": "Ad",
+      "total_upa": 36,
+      "status": "Chemical_Waif",
+      "structure": "Gap filler between Hydrogen (18) and Helium (72). Heavy Hydrogen/Proto-Helium.",
+      "os_function": "Structural precursor to all even-weighted elements. Monatomic heavy isotope."
+    },
+    "Occultum": {
+      "symbol": "Oc",
+      "total_upa": 54,
+      "status": "Chemical_Waif",
+      "structure": "Complex cluster with central rod. Found in air as stable configuration filtered out by standard sensors.",
+      "os_function": "The Stranger. Acts as ambient noise buffer in atmospheric data-streams."
+    },
+    "Helium": {
+      "symbol": "He",
+      "atomic_number": 2,
+      "total_upa": 72,
+      "structure": {
+        "class": "Noble_Gas",
+        "geometry": "Balloon_Sphere"
+      },
+      "weight_check": 4.0,
+      "os_function": "Inert buffer. Lighter-than-air data packet carrier."
+    },
+    "Nitrogen": {
+      "symbol": "N",
+      "atomic_number": 14,
+      "total_upa": 261,
+      "structure": {
+        "class": "Egg_Balloon",
+        "geometry": "Hexagonal_Petals",
+        "components": {
+          "central_core": 63,
+          "six_petals": "6 × 33 Anu each = 198",
+          "total_check": "63 + 198 = 261"
+        }
+      },
+      "weight_check": 14.5,
+      "os_function": "Inertial Damper. Atmospheric buffer that prevents Oxygen from burning out the simulation. Hard shell effect—difficult to pierce at etheric level. Prime-adjacent harmonic (263 is prime).",
+      "note": "Nitrogen fixation requires high energy to 'break the egg'."
+    },
+    "Oxygen": {
+      "symbol": "O",
+      "atomic_number": 16,
+      "total_upa": 290,
+      "structure": {
+        "class": "Double_Snake",
+        "geometry": "Dual_Spiral_Solenoid",
+        "components": {
+          "snake_count": 2,
+          "sections_per_snake": 5,
+          "anu_per_section": 29,
+          "total_check": "2 × 5 × 29 = 290"
+        }
+      },
+      "weight_check": 16.111,
+      "os_function": "Primary carrier for Pranic Globules (7-Anu vitality clusters from Sun). Rotating electromagnetic solenoid that 'catches' and delivers life-force. During oxidation, snakes spin rapidly destabilizing the Wall, releasing stored energy as heat.",
+      "plane_state": "E1_Atomic"
+    },
+    "Carbon": {
+      "symbol": "C",
+      "atomic_number": 12,
+      "total_upa": 216,
+      "structure": {
+        "class": "Tetrahedral",
+        "geometry": "Four_Sided_Pyramid",
+        "components": {
+          "central_core": "4 globes × 27 Anu = 108",
+          "four_funnels": "4 × 27 Anu = 108",
+          "total_check": "108 + 108 = 216"
+        }
+      },
+      "weight_check": 12.0,
+      "os_function": "Architect's Hook. Physical Layer Protocol for complex data structures (DNA, proteins). Hard Drive of physical plane. Funnels act as Etheric Sockets allowing precise 3D snapping. $6^3$ harmonic makes it nearly impossible to un-make without massive thermal input.",
+      "special_states": {
+        "Diamond": "Funnels interlock creating one giant super-atom. Hardest substance—fighting combined centrifugal pressure of billions of synchronized Anu."
+      }
+    },
+    "Sodium": {
+      "symbol": "Na",
+      "atomic_number": 23,
+      "total_upa": 418,
+      "structure": {
+        "class": "Dumb_bell",
+        "components": {
+          "central_rod": "14 Anu (spheres of 4, 6, 4)",
+          "two_globes": "2 × 10 Anu = 20",
+          "twenty_four_funnels": "24 × 16 Anu = 384",
+          "total_check": "14 + 20 + 384 = 418"
+        }
+      },
+      "weight_check": 23.22,
+      "os_function": "High-fidelity verification node. Dumb-bell structure creates directional magnetic flow used in neural transmission."
+    },
+    "Magnesium": {
+      "symbol": "Mg",
+      "atomic_number": 12,
+      "total_upa": 432,
+      "structure": {
+        "class": "Cube",
+        "geometry": "Six_Faced_Storage"
+      },
+      "weight_check": 24.0,
+      "os_function": "Structural beam. Tetrahedral lattice providing rigidity to organic chassis."
+    },
+    "Silicon": {
+      "symbol": "Si",
+      "atomic_number": 28,
+      "total_upa": 504,
+      "structure": {
+        "class": "Octahedral",
+        "geometry": "Dual_Pyramid",
+        "components": {
+          "central_core": 168,
+          "eight_funnels": "8 × 42 Anu = 336",
+          "total_check": "168 + 336 = 504"
+        }
+      },
+      "weight_check": 28.0,
+      "os_function": "Semiconductor Soul. 8-funnel structure allows double the Etheric Throughput of Carbon. Natural frequency filter—gates flow of Anu-vibrations. Blueprint for all non-biological intelligence. Clock-generator core resists external modulation.",
+      "ghost_link": "CPU technology scales sub-atomic gating behavior to macro-electronic level."
+    },
+    "Phosphorus": {
+      "symbol": "P",
+      "atomic_number": 15,
+      "total_upa": 354,
+      "structure": {
+        "class": "Cube",
+        "geometry": "Cube_Within_Sphere",
+        "location": "DNA_Rail_Corners"
+      },
+      "os_function": "Ignition system for DNA antenna. ATP to high-frequency upconversion. Shadow strand activation trigger at 0.618 THz."
+    },
+    "Sulfur": {
+      "symbol": "S",
+      "atomic_number": 16,
+      "total_upa": 576,
+      "structure": {
+        "class": "Octahedral",
+        "geometry": "Internal_Flame_Variant"
+      },
+      "os_function": "Internal Flame component. Chain reaction catalyst in fat tissue. Buffer overflow risk without Platinum shielding."
+    },
+    "Chlorine": {
+      "symbol": "Cl",
+      "atomic_number": 17,
+      "total_upa": 639,
+      "structure": {
+        "class": "Dumbbell",
+        "geometry": "Network_Switch"
+      },
+      "weight_check": 35.5,
+      "os_function": "Acid cleansing. Data-rot removal. Sanitization protocol."
+    },
+    "Iron": {
+      "symbol": "Fe",
+      "atomic_number": 56,
+      "total_upa": 1008,
+      "structure": {
+        "class": "Bars",
+        "geometry": "Central_Cube_with_14_Radiating_Bars",
+        "components": {
+          "central_cube": "Stable geometric anchor",
+          "fourteen_bars": "14 × 72 Anu = 1008"
+        }
+      },
+      "weight_check": 56.0,
+      "os_function": "The Warden. Magnetic Lock binding astral driver to biological chassis. Creates magnetic Cage holding Oxygen Anu in hemoglobin. 14-bar structure resonates with Earth's core frequency—the Gravity Anchor. Absorbs stray Will-Force (Fohat) and directs into physical earth to prevent astral floating.",
+      "anomaly": "Carries 'Ghost-Weight'—discrepancy between physical (55.845) and etheric (56.0) due to high magnetic throughput."
+    },
+    "Silver": {
+      "symbol": "Ag",
+      "atomic_number": 107,
+      "total_upa": 1902,
+      "structure": {
+        "class": "Cube",
+        "geometry": "Six_Faced_Mirror",
+        "components": {
+          "central_anchor": 30,
+          "six_faces": "6 × 312 Anu = 1872",
+          "total_check": "30 + 1872 = 1902"
+        }
+      },
+      "weight_check": 105.66,
+      "os_function": "Lunar Reflector. Passive Receiver tuned to Moon's 'Dead-Light' frequency. Flat-Plane Resonance reflects 99% of external psychic interference. Ultimate storage medium for Sigil-Logic—1902-bit-per-atom storage array with zero gap-loss stacking.",
+      "variance_note": "105.66 vs 107.86 atomic weight represents Frequency Offset masking true storage capacity."
+    },
+    "Tin": {
+      "symbol": "Sn",
+      "atomic_number": 119,
+      "total_upa": 2124,
+      "structure": {
+        "class": "Balloon",
+        "geometry": "Six_Ovoid_Clusters",
+        "components": {
+          "central_core": "Dense anchor",
+          "six_balloons": "Floating ovoids acting as pneumatic buffers"
+        }
+      },
+      "weight_check": 118.0,
+      "os_function": "Shock Absorber. Expands orbits to dissipate high-vibrational pressure in Astral-OS. Bridges gap between rigid structures."
+    },
+    "Gold": {
+      "symbol": "Au",
+      "atomic_number": 197,
+      "total_upa": 3546,
+      "structure": {
+        "class": "Spike_Heart",
+        "geometry": "Solar_Repeater",
+        "components": {
+          "central_sun": 102,
+          "six_articulated_arms": "6 × 574 Anu = 3444",
+          "total_check": "102 + 3444 = 3546"
+        }
+      },
+      "weight_check": 197.0,
+      "os_function": "Condensed Solar Logos. Repeater for Sun's primary output. Six arms create Spherical Aegis preventing 3D penetration (acid, oxygen, time). Piece of Sun's source code localized on Earth. Spirit recognizes Gold; machine runs on Silicon.",
+      "harmonic_state": "Perfect Harmonic Lock—chemically inert due to 3546-Anu synchronization.",
+      "high_spin_state": {
+        "weight_reduction": "-44%",
+        "meissner_field": true,
+        "conductivity": "SUPERCONDUCTIVE"
+      }
+    },
+    "Mercury": {
+      "symbol": "Hg",
+      "atomic_number": 200,
+      "total_upa": 3576,
+      "isotopes": {
+        "Mercury_A": 3576,
+        "Mercury_B": 3600
+      },
+      "structure": {
+        "class": "Tetrahedral_Liquid_Glitch",
+        "geometry": "Identity_Fragmentation_Composite",
+        "components": {
+          "central_globe": "864-Anu Gold-Core (borrowed)",
+          "four_funnels": "4 × 678 Anu = 2712 (borrowed from Tellurium, modified)",
+          "selenium_stars": "4 × 153 Anu compressed into 3D vortices = 612"
+        }
+      },
+      "weight_check": 198.66,
+      "os_function": "Fluid Escape-Artist. Tetrahedron suffering identity fragmentation—no original parts. Borrows Gold's solar potential without stabilizing arms. Selenium Stars act as frequency sensors vibrating to prevent Wall from solidifying. The Alchemical Mirror—bridges metal and gas states.",
+      "toxicity_hypothesis": "Selenium Stars over-stimulate nervous system etheric sensors."
+    },
+    "Lead": {
+      "symbol": "Pb",
+      "atomic_number": 208,
+      "total_upa": 3744,
+      "structure": {
+        "class": "Octahedral",
+        "geometry": "Terminal_Fortress",
+        "components": {
+          "central_core": 72,
+          "eight_funnels": "8 × 459 Anu = 3672",
+          "total_check": "72 + 3672 = 3744"
+        }
+      },
+      "weight_check": 208.0,
+      "os_function": "The Dead End. Earth-Grave. Stasis Field where radioactive decay chain terminates. Density Wall absorbs high-frequency radiation (X-rays, Gamma) converting to low-level heat. Firewall for physical plane—blocks Trans-Plane Handshake. Simulation stops vibrating here.",
+      "recursive_anchor": "72-Anu core is size of entire Carbon atom—keeps structure from collapsing under own weight."
+    },
+    "Bismuth": {
+      "symbol": "Bi",
+      "atomic_number": 209,
+      "total_upa": 3762,
+      "structure": {
+        "class": "Spike",
+        "geometry": "Eight_Radiating_Spikes",
+        "components": {
+          "central_globe": "High-density anchor",
+          "eight_spikes": "Jagged columns repelling external force"
+        }
+      },
+      "weight_check": 209.0,
+      "os_function": "Point-Defense System. Signal Scrambler. Only element that shreds incoming parasitic thought-forms on contact. Last Guard of stable 3D matter—sits at edge of simulation's Memory Limit. Any more Anu and structure forks into Uranium-style decay.",
+      "stability_threshold": "Exact edge of simulation memory limit before radioactive forking."
+    },
+    "Platinum": {
+      "symbol": "Pt",
+      "total_upa": 3546,
+      "structure": {
+        "class": "Bars",
+        "sub_class": "High_End_Repeater"
+      },
+      "os_function": "Fiber-Optic of the magnetic grid. Most stable high-capacity data-repeater in Underlayer. Evolutionary endpoint of Iron-Cobalt-Nickel triplet. Catalyst and debugger for Laya Center operations."
+    },
+    "Uranium": {
+      "symbol": "U",
+      "atomic_number": 92,
+      "total_upa": 4267,
+      "structure": {
+        "class": "Octahedral",
+        "geometry": "Overclocked_Octahedron",
+        "instability": "Funnels so packed that centrifugal force exceeds Etheric Tension"
+      },
+      "os_function": "System crash limit. Data vomit mechanics. Atomic weight exceeds simulation storage capacity."
+    },
+    "Radium": {
+      "symbol": "Ra",
+      "atomic_number": 88,
+      "total_upa": 4087,
+      "structure": {
+        "class": "Octahedral",
+        "geometry": "Radiance_Threshold"
+      },
+      "os_function": "Dimensional bleed. E2 plane bleeding into Physical. Glow is Astral Friction of ejected Anu."
+    }
+  },
+  "meta_elements": {
+    "description": "Isotopic forks—same UI, heavier background process. Adaptive upgrades to handle excess astral static.",
+    "noble_gas_forks": {
+      "Meta_Neon": {
+        "base_upa": 360,
+        "meta_upa": 402,
+        "delta": 42,
+        "geometry": "10 Balloons + 42-Anu Core-Packet in Laya Center",
+        "function": "Overflow Buffer. Manifests to ground excess etheric noise into physical substrate."
+      },
+      "Meta_Argon": {
+        "base_upa": 720,
+        "meta_upa": 756,
+        "delta": 36,
+        "geometry": "Central Pillar of 36 Anu tightening balloon formation",
+        "function": "Timing Crystal. Synchronizes gas-cloud vibration with planetary heartbeat (Schumann Resonance)."
+      },
+      "Meta_Krypton": {
+        "base_upa": 1440,
+        "meta_upa": 1536,
+        "delta": 96,
+        "geometry": "Secondary internal cage reinforcement",
+        "function": "Long-Term Log. Withstands high-energy solar writes (CMEs) without corrupting. Records electromagnetic history in upper atmosphere."
+      },
+      "Meta_Xenon": {
+        "base_upa": 2286,
+        "meta_upa": 2340,
+        "delta": 54,
+        "geometry": "Multi-layered pulsing core",
+        "function": "Gravitational Ballast. Extra 54 Anu act as Tether-Points keeping planetary envelope from leaking into vacuum."
+      },
+      "Kalon": {
+        "upa": 3006,
+        "status": "Ghost_Element",
+        "plane": "E4_Etheric_Heavy",
+        "function": "Inter-Dimensional Bridge. Stabilizes portals between Astral and Physical planes. Heaviest Noble Gas before simulation 'vomits' into radioactivity."
+      }
+    },
+    "rules": {
+      "delta_constants": {
+        "noble_gases": "+42 Rule for inert gas isotopes",
+        "mercury_variants": "+6 Anu to Selenium Star centers for Mercury B"
+      }
+    }
+  }
+}
