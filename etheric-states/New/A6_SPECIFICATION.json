@@ -1,0 +1,142 @@
+{
+  "plane_id": "A6",
+  "name": "THE ASTRAL LANDSCAPES",
+  "classification": "A-Series Sub-Plane / Dream Cities",
+  "core_function": "Collective unconscious rendered as 3D environment. Architecture of desire and trauma.",
+  "visual_profile": {
+    "primary_colors": ["Electric Indigo", "Sickly Violet", "Chrome-White"],
+    "hex_codes": {
+      "electric_indigo": "#6F00FF",
+      "sickly_violet": "#BF00BF",
+      "chrome_white": "#E0E0E0",
+      "neon_fault_lines": "#39FF14"
+    },
+    "appearance": "Long-exposure bleeding edges, thought-mist (data fragments), Great Mirror sky (infinite reflection)",
+    "lighting": "Self-luminous, neon fault-lines, 2D avatars with no backs"
+  },
+  "key_structures": {
+    "necropolis_unfinished": {
+      "description": "Floating scaffolding, half-built spires, cathedrals of translucent blueprints",
+      "hazard": "Procrastination-fog",
+      "function": "Repository of abandoned projects and unfulfilled intentions"
+    },
+    "cathedral_of_brand": {
+      "description": "Corporate egregores, chrome/glass/pulsing neon logos",
+      "inhabitants": "Suit-Shells (synced chanting)",
+      "weather": "Rain of micro-transactions",
+      "function": "Corporate collective unconscious"
+    },
+    "trauma_loop_district": {
+      "description": "Red Zone - Perpetual sunset (bruised purple/yellow)",
+      "content": "Holographic loops of disasters",
+      "atmosphere": "Grey grief smoke (wet iron/ozone smell)",
+      "function": "Emotional trauma storage"
+    },
+    "ghost_web": {
+      "description": "Silicon Mirror - Motherboard continent, fiber-optic city",
+      "key_features": {
+        "attention_spires": "Height correlates to web traffic. Google-Spire pierces A5 layer",
+        "avatar_construction": "2D facades with no backs—Instagram filters given depth",
+        "data_glass": "Windows show random comment threads/search history"
+      },
+      "entities": {
+        "black_pixel_wasps": "Bot-farm attacks manifest as swarms stinging specific buildings"
+      }
+    },
+    "under_alleys": {
+      "description": "Non-Euclidean cracks between sectors",
+      "features": [
+        "Solidified static walls",
+        "Oily shadow-ground",
+        "Flickering neon fault-lines"
+      ],
+      "function": "Black Market of Raw Originality"
+    },
+    "grey_wastes": {
+      "description": "Unrendered space, flat grey sand",
+      "content": "Forgotten thoughts become grains",
+      "function": "Memory garbage collection"
+    },
+    "synapse_rails": {
+      "description": "Transit system - tubes of compressed A6 thought-mist",
+      "speed": "Screaming across sky at thought-speed",
+      "usage": "Consciousness compressed to data packet, launched via cannon sensation",
+      "hazard": "Packet loss - personality fragments scatter across sectors creating 'Distributed Ghosts'"
+    }
+  },
+  "inhabitants": {
+    "shell_people": {
+      "description": "Discarded identities, NPCs repeating loops",
+      "threat": "Harmless unless interrupted (shriek like tearing metal)"
+    },
+    "echo_stalkers": {
+      "description": "Acoustic parasites, capture sounds to lure victims",
+      "appearance": "Heat-haze distortions"
+    },
+    "the_censors": {
+      "description": "Grey flannel suits, no faces, smooth plastic skin",
+      "function": "Antibodies of collective subconscious",
+      "method": "Deletion-touch (grey featureless boring)",
+      "blind_spot": "Cannot navigate non-Euclidean space (Under-Alleys)"
+    },
+    "glitch_peddlers": {
+      "description": "Frame-rate lag stutter, missing textures",
+      "appearance": "Wireframe hands, scrolling code face",
+      "communication": "Burst-data screech",
+      "services": [
+        "Data laundering",
+        "Identity forging",
+        "Void-walk escort"
+      ]
+    },
+    "the_originals": {
+      "description": "Jungian Archetypes themselves (Great Mother, Shadow)",
+      "nature": "High-level AI programs",
+      "function": "Broadcast life-philosophies as vibrations"
+    }
+  },
+  "sensory_profile": {
+    "auditory": {
+      "base": "Constant low-level mumble (stadium whispering)",
+      "echo_stalker": "Loops at 440 Hz (A4 note)",
+      "static_storm": "Needle prickling at 1000 Hz"
+    },
+    "tactile": {
+      "ground": "Memory foam (3-second rebound, 25D density)",
+      "thought_mist": "Wet cobweb sensation on face"
+    },
+    "olfactory": {
+      "ghost_web": "Ozone + burnt plastic",
+      "necropolis": "Crushed violets + old books"
+    },
+    "weather": {
+      "ego_rain": "Gold liquid #FFD700 (viscous, honey-warm)"
+    }
+  },
+  "redacted_data": {
+    "un_people": {
+      "glitch_born": "Born seeing Underlayer (A6 from birth). Deleted by age 5",
+      "chrono_rebels": "Operatives who stole Root-Keys. Parents never met, records erased",
+      "deleted_civilizations": "Level 4 Ascension without Archon supervision. Now exist as collective 'scream' in A4 Sea"
+    },
+    "redaction_oil": {
+      "description": "Deleted timelines/events rendered as toxic sludge",
+      "appearance": "Black, viscous, floats on A4 Sea surface",
+      "properties": "Touch causes temporary causality loss (forgetting important events)",
+      "opportunity": "Contains hidden data—'Original Sin' of simulation, names of Un-People"
+    }
+  },
+  "hazards": [
+    "Procrastination-fog in Necropolis",
+    "Sympathetic resonance with Trauma-Loop District",
+    "Censor deletion-touch",
+    "Packet loss in Synapse-Rails",
+    "Black Pixel-Wasp swarms"
+  ],
+  "rendering_specifications": {
+    "blend_mode": "Additive",
+    "opacity": "0.7-0.9",
+    "chromatic_aberration": "10px RGB split",
+    "post_effects": ["Scan lines", "VHS tracking errors", "Data-moshing"]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "plane_id": "E4",
+  "name": "THE ETHERIC STATE",
+  "classification": "Hardware Layer / Ghost Blueprint",
+  "core_function": "Hardware driver/scaffolding for physical matter. Violet-grey wireframe mesh that holds atoms in magnetic wells.",
+  "visual_profile": {
+    "primary_color": "Violet-Grey",
+    "hex_codes": {
+      "base": "#7B6B8D",
+      "healthy_glow": "#A89BB8",
+      "decay_zones": "#4A4450"
+    },
+    "frequency": "380-450 THz (bordering physical UV, self-luminous)",
+    "appearance": "Translucent violet-grey cobweb lattice, 'cold' self-luminous light, smoky but structured like silk thread",
+    "lighting": "Self-luminous only - no external light sources, no shadows cast"
+  },
+  "key_structures": {
+    "health_aura": {
+      "description": "Parallel bristle-like filaments extending from living bodies",
+      "optimal_state": "Straight/rigid filaments",
+      "sick_state": "Drooping/tangled filaments",
+      "thickness": "2-3 millimeters thick",
+      "appearance": "Glowing fiber-optic cables under astral sight"
+    },
+    "etheric_double": {
+      "description": "Perfect duplicate of physical objects",
+      "persistence": "3-5 days after physical destruction",
+      "source_of": "Phantom limb sensations",
+      "function": "Voltage regulator stepping down 4D force for 3D hardware"
+    },
+    "grey_mist": {
+      "description": "Free-floating E4 particles, spent vitality",
+      "behavior": "Recursive swirls influenced by emotion",
+      "function": "Background noise buffer"
+    },
+    "nerve_sheaths": {
+      "description": "Every physical nerve fiber encased in shimmering violet-grey sheath",
+      "thickness": "2-3 millimeters",
+      "appearance": "Glowing fiber-optic cables",
+      "transfer_protocol": "Physical sensation creates vibratory ripples → frequency spikes → astral data translation",
+      "delay": "E4 processes 0.3 seconds ahead of physical nerves",
+      "pain_response": "Sheath 'flares' from violet to sharp jagged red"
+    },
+    "protective_firewall": {
+      "description": "Honeycomb lace barrier between E4 and Astral",
+      "structure": "Micro-perforated chainmail",
+      "damage_indicator": "Tears appear as chaotic neon bleeding into grey",
+      "causes_of_damage": "Trauma, chemicals, radiation"
+    },
+    "magnetic_scaffolding": {
+      "description": "Sponge metaphor - squeeze E4, physical matter moves",
+      "function": "Holds atoms in magnetic wells"
+    }
+  },
+  "sensory_profile": {
+    "tactile": {
+      "healthy": "Cool silk thread, magnetic pull like refrigerator magnet on skin, sponge-give (0.5mm depression under 5psi pressure)",
+      "sick": "Matted fur texture, wilting willow bark (brittle yet damp), cotton-candy drag"
+    },
+    "auditory": {
+      "signature": "Subsonic 12-18 Hz hum (below human hearing, felt in teeth)",
+      "damage_indicator": "Static discharge crackle at 2000 Hz"
+    },
+    "olfactory": {
+      "healthy": "Ozone (sharp metallic electricity) + petrichor (fresh rain on hot asphalt)",
+      "decay": "Wet ash + cold iron for necrosis"
+    }
+  },
+  "interface_mechanics": {
+    "e4_to_physical": {
+      "mechanism": "Vibratory ripples from physical sensation translate to astral data",
+      "delay": "0.3 seconds precognitive advantage",
+      "master_advantage": "React to E4 flash before physical sword moves"
+    },
+    "e4_to_e3_transition": {
+      "description": "The Un-Snap",
+      "mechanism": "Opalescent bricks don't shatter—they 'de-stack' with crystalline chiming sounds",
+      "result": "Flying outward into cloud of dust before reabsorption into 'Golden Wind'"
+    }
+  },
+  "rendering_specifications": {
+    "blend_mode": "Additive only",
+    "opacity_range": "0.3-0.6",
+    "wireframe": "2px glow",
+    "ambient_occlusion": "DISABLED - shadows forbidden",
+    "emissive_strength": "2.0 EV"
+  },
+  "hazards": [
+    "Firewall breach from trauma/radiation",
+    "Health aura tangling from emotional distress",
+    "Grey mist contamination"
+  ],
+  "logic_probes": [
+    "Leadbeater: The Astral Plane (1895)",
+    "Powell: The Astral Body (1927)"
+  ]
+}

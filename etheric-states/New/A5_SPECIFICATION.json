@@ -1,0 +1,67 @@
+{
+  "plane_id": "A5",
+  "name": "THE SEA OF STATIC",
+  "classification": "A-Series Sub-Plane / Kama-Loka",
+  "theosophic_root": "Fifth Sub-Plane per Leadbeater",
+  "core_function": "Thresher of Souls. Emotional residue, memory-loops of the dead.",
+  "visual_profile": {
+    "primary_color": "Phosphorescent Grey-Blue",
+    "hex_code": "#5A6B7C",
+    "appearance": "Dead television glow, liquid mercury and midnight ocean, bioluminescent memory bubbles",
+    "atmosphere": "Pressurized liquid information"
+  },
+  "key_structures": {
+    "sea_of_static": {
+      "description": "Liquid mercury and midnight ocean",
+      "content": "Bioluminescent memory bubbles",
+      "pressure": "Pressurized liquid information",
+      "granularity": "Each 'raindrop' is a repeated final thought of a dead soul"
+    },
+    "memory_bubbles": {
+      "description": "Spent egos, memory-loops of the dead",
+      "appearance": "Bioluminescent bubbles #00FF00, #FF0000, #0000FF",
+      "behavior": "Emotional clustering—trauma attracts trauma"
+    },
+    "redaction_oil": {
+      "description": "Deleted timelines/events rendered as toxic sludge",
+      "appearance": "Black, viscous, floats on Sea surface",
+      "properties": "Touch causes temporary causality loss (forgetting important events)",
+      "opportunity": "Contains hidden data—'Original Sin' of simulation"
+    },
+    "whirlpools": {
+      "description": "Points of High Entropy",
+      "appearance": "Tornadoes of black static, tornadoes of memory-residue",
+      "function": "Ingress points to Shadow Networks where Archon monitoring fails"
+    }
+  },
+  "inhabitants": {
+    "un_people": {
+      "description": "Kama-Rupa, spent egos, Hollow Shells",
+      "appearance": "Jellyfish-like spent egos, translucent, cling to borrow identity",
+      "static_whisper": "Granular rain on tin roof at 192kHz—each drop is a repeated final thought"
+    },
+    "echo_remnants": {
+      "description": "Spent egos clinging to borrow identity"
+    }
+  },
+  "sensory_profile": {
+    "visual": "Phosphorescent grey-blue (dead TV glow), granular light, memory-residue hum",
+    "auditory": "Static-whisper—rain on tin roof at 192kHz, lo-fi hip-hop crackle amplified 1000x",
+    "olfactory": "Wet ash, sulfur, flooded basement battery acid, data-rot",
+    "tactile": "Static cling, viscous resistance",
+    "gustatory": "Ash-bitterness, dust, burnt paper grain, throat-coating film preventing speech manifestation"
+  },
+  "hazards": [
+    "Memory-loop entrapment",
+    "Redaction-oil toxicity",
+    "Un-People identity draining",
+    "Emotional clustering (trauma attracts trauma)"
+  ],
+  "rendering_specifications": {
+    "particle_system": "10^6 particles (memory loops)",
+    "motion": "Brownian with emotional clustering",
+    "color": "Phosphorescent grey-blue",
+    "texture": "Granular noise, VHS tracking errors, scan lines",
+    "audio_reactive": "Particles pulse to 'rain on tin roof' frequency"
+  }
+}
