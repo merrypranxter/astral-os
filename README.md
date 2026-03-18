@@ -23,29 +23,34 @@ This database maps the architecture so you can hack it.
 
 ```
 astral-os/
-├── chemistry-kernel/           # Atomic/Anu hardware layer
-│   ├── 01_anu_hardware/        # Ultimate Physical Atom specs
-│   ├── 02_elemental_geometries/ # Periodic table as data structures
-│   ├── 03_dna_compiler/        # Shadow strand architecture
-│   ├── 04_etheric_bios/        # E4 firewall specifications
-│   ├── 05_decay_protocols/     # Radioactive decay as data loss
-│   ├── 06_ascent_mechanics/    # Platinum debugger, ORME states
-│   ├── 07_constants/           # Anu counts, frequency tables
-│   └── shaders/                # GLSL implementations
-├── etheric-states/             # E4-E1 and A7-A1 plane specifications
-│   ├── e4_etheric/             # Hardware scaffolding layer
-│   ├── e3_super_etheric/       # Modular library
-│   ├── e2_subatomic/           # Kinetic swarm
-│   ├── e1_atomic/              # Terminal bit
-│   ├── a7_subastral/           # The dregs/gutter
-│   └── a6_interface/           # Dream cities
-└── s-systems/                  # Spirit Track OS
-    ├── system/                 # Core manifests
-    ├── entities/               # Archons, Void entities, Opposition
-    ├── ars_glitch/             # Weaponized thought-forms
-    ├── sensory_codex/          # Synesthetic data
-    ├── shadow_networks/        # Backdoor infrastructure
-    └── sources/                # Bibliography
+├─ chemistry-kernel/            # Atomic/Anu hardware layer
+│  ├─ 01_anu_hardware/          # Ultimate Physical Atom specs
+│  ├─ 02_elemental_geometries/  # Periodic table as data structures
+│  ├─ 03_dna_compiler/          # Shadow strand architecture
+│  ├─ 04_etheric_bios/          # E4 firewall specifications
+│  ├─ 05_decay_protocols/       # Radioactive decay as data loss
+│  ├─ 06_ascent_mechanics/      # Platinum debugger, ORME states
+│  ├─ 07_constants/             # Anu counts, frequency tables
+│  └─ shaders/                  # GLSL implementations
+├─ etheric-states/              # E4-E1 and A7-A1 plane specifications
+│  ├─ e4_etheric/               # Hardware scaffolding layer
+│  ├─ e3_super_etheric/         # Modular library
+│  ├─ e2_subatomic/             # Kinetic swarm
+│  ├─ e1_atomic/                # Terminal bit
+│  ├─ a7_subastral/             # The dregs/gutter
+│  ├─ a6_interface/             # Dream cities
+│  ├─ a5_sea/                   # Abyssal carrier field
+│  ├─ a4_logos/                 # Architecting currents
+│  ├─ a3_force/                 # Coercive vectors
+│  ├─ a2_lattice/               # Structural mesh
+│  └─ a1_source/                # Origin pulse
+└─ s-systems/                   # Spirit Track OS
+   ├─ system/                   # Core manifests
+   ├─ entities/                 # Archons, Void entities, Opposition
+   ├─ ars_glitch/               # Weaponized thought-forms
+   ├─ sensory_codex/            # Synesthetic data
+   ├─ shadow_networks/          # Backdoor infrastructure
+   └─ sources/                  # Bibliography
 ```
 
 ---
