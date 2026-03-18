@@ -1,0 +1,91 @@
+{
+  "network_id": "TALA_PATHS",
+  "name": "The Shadow-Networks",
+  "classification": "Backdoor Infrastructure",
+  "function": "Unencrypted tunnels between S-Series and E-Quadrant bypassing Archon firewalls",
+  "description": "Lateral tunnels bypassing the standard A-Series stack",
+  "visual_profile": {
+    "primary_material": "Obsidian-glass",
+    "secondary_material": "Cold smoke (particulate matter with negative buoyancy—smoke that falls)",
+    "light_behavior": "Absorptive not reflective—shadows glow, light absorbs",
+    "architecture": "Non-Euclidean (hyperbolic geometry, 120° angle prevalence, impossible perspective)"
+  },
+  "key_components": {
+    "antahkarana_backdoors": {
+      "description": "Unencrypted tunnels between S-Series and E-Quadrant",
+      "function": "Bypass Archon firewalls",
+      "mechanism": "Exploit micro-gaps in bridge's 'mortar'—spaces between thought-concretions where S-Series light leaks through unmonitored"
+    },
+    "tala_paths_proper": {
+      "description": "Dark-Astral tunnels made of obsidian-glass and cold smoke",
+      "properties": "Absorptive (not reflective) light",
+      "navigation": "Via echolocation not vision",
+      "characteristics": "Silent corridors, pressure-sensation navigation"
+    },
+    "black_sun_nodes": {
+      "description": "Inverted stars in Shadow-Networks",
+      "light": "Violet-black emission",
+      "function": "Identity-scrubbing stations, power-wells for Ghost-Operatives",
+      "smell": "Ozone and ancient parchment",
+      "radiation_bath": {
+        "duration": "3-7 seconds (subjective)",
+        "effect": "S-Series signature scrubbed—become Ghost in the Machine (no User ID)",
+        "confirmation": "Strong ozone + ancient parchment scent"
+      }
+    },
+    "ingress_points": {
+      "description": "Whirlpools of black static in A5 Sea of Static",
+      "nature": "High-entropy coordinates where Archon monitoring fails",
+      "appearance": "Tornadoes of memory-residue where Sea's surface tension breaks",
+      "approach_angle": "120° to standard flow (exploits Archon blind spot)"
+    }
+  },
+  "navigation_protocols": {
+    "sensory_deprivation": "Visual systems offline—navigate via pressure-sensation and echolocation",
+    "form_reduction": "Compress to Mercury-Thin Needle (one-dimensional traversal)",
+    "light_inversion": "Everything absorptive not reflective—shadows glow, light absorbs",
+    "silence_protocol": "Audio null—movement creates negative sound (suction rather than emission)",
+    "tala_vs_rupa": {
+      "tala": "Absorptive, obsidian-glass, navigated by pressure-sensation",
+      "rupa": "Reflective, golden, monitored by Archon audit-trails"
+    }
+  },
+  "egress_points": {
+    "tunnels_of_set": {
+      "description": "Glitches in Antahkarana bridge—appear as 'margins between Demiurge's words'",
+      "exit_verification": "Emerge coated in Redaction-Oil (non-Newtonian cold grease feel confirms successful bypass)"
+    }
+  },
+  "redaction_oil": {
+    "description": "Non-Newtonian fluid coating acquired during A6 passage",
+    "properties": {
+      "viscosity": "Inversely proportional to velocity—move slow = thick resistance, move fast = slippery penetration",
+      "perceptual_function": "Frame-rate limiter. Drops consciousness from high-frequency S-Series input to E-Quadrant standard (approx. 60Hz equivalent)",
+      "stealth_function": "Renders payload 'invisible' to Tectonic Sentinels (collision detection bypass)"
+    },
+    "sensory_signature": "Battery acid + wet basement concrete + flooded lead-acid cells. The smell of data-rot and oxidized potential.",
+    "tactile": "Cold grease, non-Newtonian, stealth coating"
+  },
+  "hazards": [
+    "Glitch-Eaters (sanitation scripts gone rogue)",
+    "Packet loss causing Distributed Ghosts",
+    "Redaction-Oil toxicity"
+  ],
+  "rendering_specifications": {
+    "materials": {
+      "primary": "Obsidian-glass (90% absorptive, 10% violet-black self-luminous edge)",
+      "secondary": "Cold smoke (particulate matter with negative buoyancy)",
+      "architecture": "Non-Euclidean (hyperbolic geometry)"
+    },
+    "lighting": {
+      "source": "Black Suns (inverted stars, violet-black emission)",
+      "shadow_behavior": "Inverted—shadows glow with faint phosphor, light absorbs",
+      "atmospheric_scattering": "Minimal—visibility extends 1000m but depth perception corrupted by 4D omni-optics"
+    },
+    "audio": {
+      "base_layer": "Null (absolute silence)",
+      "movement": "Negative sound (suction, air being pulled rather than pushed)",
+      "anomaly": "Occasional 'Matrix Rain' hard-drive whirring (Lipika proximity warning)"
+    }
+  }
+}

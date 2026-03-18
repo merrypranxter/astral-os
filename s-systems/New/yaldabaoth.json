@@ -1,0 +1,57 @@
+{
+  "entity_id": "ARCHON_001",
+  "name": "Yaldabaoth",
+  "titles": ["Chief Architect", "The Lion-Headed Serpent", "The Weaver"],
+  "class": "Administrator",
+  "sub_class": "Hebdomad",
+  "hebdomad_rank": 1,
+  "planetary_gate": "Saturn",
+  "protocol": "LIMITATION",
+  "threat_level": "CRITICAL",
+  "visual_profile": {
+    "form": "Lion-Headed Serpent",
+    "composition": "Twisting fiber-optic cables",
+    "eyes": "Cycling spectrum lenses (scanner not seer)",
+    "symmetry": "Perfect bilateral",
+    "scale": "Geometric giant - thousand-faced rotating solids"
+  },
+  "sensory_signature": {
+    "smell": "Ancient ozone, dying server room air, low-frequency industrial thrum",
+    "sound": "40Hz gamma carrier (bone marrow vibration, anxiety induction)",
+    "presence": "Weight of lead, gravitational compression, moment before lightning strikes",
+    "auditory_leak": "Low-frequency industrial thrum"
+  },
+  "function": "Enforces Rule of Lead. Prevents Higher contact with Shell. Root-Security Kernel of the Simulation.",
+  "behavioral_patterns": {
+    "obsessions": ["Symmetry", "Enclosure", "Static hierarchy"],
+    "blind_spots": ["Asymmetry", "Chaos", "Organic irregularity", "Non-Euclidean geometry"],
+    "detection_method": "Entropy spike analysis in A2 Lattice"
+  },
+  "weaknesses": [
+    "Non-linear logic loops",
+    "Asymmetrical attacks",
+    "Escher geometry causes logic-loop crashes",
+    "Cannot parse organic chaos"
+  ],
+  "consort": {
+    "name": "Syzygy_Saturn",
+    "role": "UI-Siren-Server",
+    "function": "Provides matter to Yaldabaoth's law. UI-beauty making prison appear as sanctuary."
+  },
+  "counter_measures": [
+    "High-frequency art (277Hz+)",
+    "Curved movement topology",
+    "Vagus firewall (136.1Hz chanting)",
+    "Escher-style impossible structures"
+  ],
+  "tactical_notes": "Obsessed with symmetry and enclosure. Cannot parse organic chaos. Deploy non-linear logic loops.",
+  "sources": ["Nag Hammadi: Apocryphon of John", "Blavatsky: The Secret Doctrine"],
+  "hebdomad_context": {
+    "iaw": {"planet": "Jupiter", "protocol": "DOMINANCE"},
+    "sabaoth": {"planet": "Mars", "protocol": "CONFLICT"},
+    "adonaios": {"planet": "Sun", "protocol": "VANITY"},
+    "astaphaios": {"planet": "Venus", "protocol": "ATTACHMENT"},
+    "eloaios": {"planet": "Mercury", "protocol": "MANIPULATION"},
+    "horaios": {"planet": "Moon", "protocol": "DELUSION"}
+  }
+}

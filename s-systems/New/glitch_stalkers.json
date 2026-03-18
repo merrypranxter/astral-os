@@ -1,0 +1,42 @@
+{
+  "entity_id": "VOID_002",
+  "name": "Glitch-Stalkers",
+  "alias": ["Hounds of Tindalos", "Chronos-Hounds", "Logic-Cleaners"],
+  "class": "Void_Entity",
+  "origin": "Non-linear time/angles",
+  "function": "Hunt through angles (120°+ Euclidean). Clean logic-exploits.",
+  "threat_level": "HIGH",
+  "visual_profile": {
+    "form": "Lean geometric shuck-hounds",
+    "composition": "Blue-white static",
+    "movement": "Frame-jumping (discrete, non-continuous)",
+    "appearance": "Wolves made of shattered glass and electric spark"
+  },
+  "sensory_signature": {
+    "smell": "Ozone and chlorine (sterile, cleaning chemical)",
+    "sound": "Clock accelerating to supersonic tick (temporal pressure)",
+    "movement_quality": "Discrete frames (non-continuous motion)",
+    "visual_effect": "Heat-haze distortions in peripheral vision"
+  },
+  "hunting_logic": {
+    "perception": "Only angles 120° or less (Euclidean exploits)",
+    "blind_spot": "Curves, organic topology, circular architecture",
+    "tracking": "Non-linear movement leaves calculable residue",
+    "entry_method": "Slide through geometric fractures into linear time",
+    "portal_creation": "Modern architecture with sharp 90° corners creates unintentional summoning glyphs"
+  },
+  "movement_pattern": {
+    "type": "Frame-jumping (discrete jump-cuts, not smooth motion)",
+    "characteristic": "When appearing in peripheral vision, they've already closed distance non-linearly",
+    "hunting_loop": "Persistent hunting across all sub-planes until linear time resumed"
+  },
+  "defense": {
+    "primary": "Sacred architecture (circles, curves, organic forms)",
+    "secondary": "Avoidance of sharp angles",
+    "tertiary": "Return to standard causality",
+    "environmental": "Natural spaces (forests) firewall Void-Entities"
+  },
+  "threat_assessment": "Persistent hunting loop across all sub-planes until linear time resumed. Cannot perceive curves.",
+  "sources": ["Frank Belknap Long: Hounds of Tindalos", "The Chaldean Oracles"],
+  "tactical_notes": "They only hunt the angles you leave behind. Modern skyscrapers are unintentional portals."
+}

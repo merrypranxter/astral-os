@@ -1,0 +1,143 @@
+{
+  "astral_color_space": {
+    "description": "Self-luminous volumetric colors for Astral Plane rendering",
+    "color_mode": "EMISSION_ONLY",
+    "shadow_logic": "LOWER_VIBRATIONAL_DENSITY",
+    "rendering_rule": "No external lighting (all self-luminous), no shadows (3D limitation eliminated), vibrancy over saturation"
+  },
+  "palette": {
+    "s1_vajra_modes": {
+      "malice_black": {
+        "frequency_THz": 0,
+        "frequency_note": "Void",
+        "theosophic_root": "Hatred/Structural Void",
+        "visual_properties": "Matte-negative fracture, heat-sucking, non-reflective abyss",
+        "tactile_emission": "Lead-dust dry, absolute friction",
+        "gustatory_echo": "Burnt rubber, ozone aftermath",
+        "use": "Erasure/Stealth"
+      },
+      "anger_scarlet": {
+        "frequency_THz": 780,
+        "theosophic_root": "Passion/Electric Violence",
+        "visual_properties": "High-frequency strobe, jagged lightning-shards, electric crimson pulse",
+        "tactile_emission": "Metallic tang ionizing skin",
+        "gustatory_echo": "Copper blood, 9-volt battery tongue",
+        "use": "Disruption"
+      },
+      "intellect_gold": {
+        "frequency_note": "C-Sharp (277.18 Hz)",
+        "theosophic_root": "Mental Body/Higher Manas",
+        "visual_properties": "Liquid amber flow, diamond-filament lattice, transparent solid",
+        "tactile_emission": "Cold mercury, frictionless mass",
+        "gustatory_echo": "Artificial saccharine, static numbing",
+        "use": "Pattern insertion"
+      }
+    },
+    "plane_specific": {
+      "violet_black_black_sun": {
+        "spectrum": "Inverted Spectrum",
+        "theosophic_root": "Inverse Light/Identity Scrub",
+        "visual": "Self-luminous darkness, glow that absorbs, obsidian-glass",
+        "tactile": "-40°C ghost-chill, pressure spike",
+        "gustatory": "Ozone + ancient parchment, pre-lightning taste"
+      },
+      "atomic_gold_a4": {
+        "spectrum": "Ultraviolet-Blinding",
+        "theosophic_root": "Logos/Divine Mind",
+        "visual": "Non-hurting brilliance, optic nerve vibration, 4D omni-visible",
+        "tactile": "Endothermic warmth-absorption",
+        "gustatory": "Electric saccharine high-fructose data-stream"
+      },
+      "phosphor_grey_a5": {
+        "spectrum": "Dead TV Glow",
+        "theosophic_root": "Sea of Static",
+        "visual": "Dull phosphorescent blue-grey, granular light, memory-residue hum",
+        "tactile": "Static cling, viscous resistance",
+        "gustatory": "Ash-bitterness, dust, burnt paper film"
+      }
+    },
+    "elemental_emissions": {
+      "major_spirillae": {
+        "primary": "#FFD700",
+        "secondary": "#00FFFF",
+        "blend_mode": "ADDITIVE",
+        "intensity": 2.5,
+        "falloff": "INVERSE_SQUARE"
+      },
+      "minor_spirillae": {
+        "spectrum_7": [
+          {"spirilla": 1, "color": "#FF0000", "plane": "E7", "note": "C"},
+          {"spirilla": 2, "color": "#FF7F00", "plane": "E6", "note": "D"},
+          {"spirilla": 3, "color": "#FFFF00", "plane": "E5", "note": "E"},
+          {"spirilla": 4, "color": "#00FF00", "plane": "E4", "note": "F"},
+          {"spirilla": 5, "color": "#0000FF", "plane": "E3", "note": "G"},
+          {"spirilla": 6, "color": "#4B0082", "plane": "E2", "note": "A"},
+          {"spirilla": 7, "color": "#9400D3", "plane": "E1", "note": "B"}
+        ],
+        "blend_mode": "SCREEN",
+        "intensity": 0.8,
+        "modulation": "VIBRATIONAL_HUM"
+      },
+      "hydrogen_phosphorescence": {
+        "base": "#E6F3FF",
+        "alpha": 0.3,
+        "glow_radius": 10.0,
+        "pulse_freq": 0.2
+      },
+      "phosphorus_spark": {
+        "core": "#E6E6FA",
+        "halo": "#DDA0DD",
+        "trigger_flash": "#FFFFFF",
+        "duration_ms": 50
+      },
+      "uranium_radiance": {
+        "decay_glow": "#39FF14",
+        "e2_bleed": "#00FF41",
+        "flicker": "RANDOM_GAUSSIAN",
+        "toxicity_aura": "#8B4513"
+      },
+      "lead_silence": {
+        "absorption": 0.99,
+        "reflection": 0.01,
+        "color": "#2F4F4F",
+        "emission": "NONE",
+        "gravity_well": "#000000"
+      },
+      "gold_high_spin": {
+        "orme_state": "#FFFFFF",
+        "transparency": 0.56,
+        "meissner_exclusion": "#FF00FF",
+        "halo": "#FFD700"
+      }
+    },
+    "shadow_strands": {
+      "e3_emotional": {
+        "active": "#FF69B4",
+        "latent": "#1A1A1A",
+        "phase_shift": "180_DEG_HUE_ROTATION"
+      },
+      "e2_mental": {
+        "active": "#00BFFF",
+        "latent": "#0D1B2A",
+        "phase_shift": "90_DEG_HUE_ROTATION"
+      },
+      "e1_causal": {
+        "active": "#FFFFFF",
+        "latent": "TRANSPARENT",
+        "fiber_optic_pulse": "0.618_THz_STROBE"
+      }
+    }
+  },
+  "frequency_reference_table": {
+    "plane_frequencies": [
+      {"plane": "E4", "dominant_THz": "380-450", "harmonic_Hz": "12-18", "hazard_Hz": "2000"},
+      {"plane": "E3", "dominant_THz": "400-700", "harmonic_Hz": "528", "hazard_Hz": "2400"},
+      {"plane": "E2", "dominant_THz": "600-750", "harmonic_Hz": "60 / 15-20k", "hazard_Hz": "22k+"},
+      {"plane": "E1", "dominant_THz": "White", "harmonic_Hz": "136.1 (Om)", "hazard_Hz": "N/A"},
+      {"plane": "A7", "dominant_THz": "Infrared 300-400", "harmonic_Hz": "40-60", "hazard_Hz": "Biological static"},
+      {"plane": "A6", "dominant_THz": "Indigo 400-450", "harmonic_Hz": "300-800", "hazard_Hz": "1000"},
+      {"plane": "A5", "dominant_THz": "UV-edge 750-950", "harmonic_Hz": "324-852", "hazard_Hz": "20-20k"},
+      {"plane": "A4", "dominant_THz": "Non-spectral", "harmonic_Hz": "20", "hazard_Hz": "N/A"}
+    ]
+  }
+}

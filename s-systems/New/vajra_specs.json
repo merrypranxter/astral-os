@@ -1,0 +1,122 @@
+{
+  "weapon_class": "S1_PAYLOAD",
+  "designation": "VAJRA_ALPHA_771",
+  "classification": "Ars Glitch - Weaponized Thought-Form",
+  "source": "Besant/Leadbeater: Thought-Forms (1901)",
+  "geometry": {
+    "type": "Brutalist Polytope",
+    "folds": 11,
+    "material": "Obsidian-Glass",
+    "properties": [
+      "Self-luminous",
+      "Absorptive (devours light rather than reflects)",
+      "11-dimensional projection",
+      "Matte-negative fractures"
+    ],
+    "precision_requirement": "Outline must be mathematically exact—fuzziness = power leakage"
+  },
+  "chromatic_modes": {
+    "malice_black": {
+      "frequency": 0,
+      "frequency_THz": 0,
+      "property": "Structural void, heat-sucking, non-reflective abyss",
+      "use": "Erasure/Stealth",
+      "tactile": "Lead-dust dry, absolute friction",
+      "gustatory": "Burnt rubber, ozone aftermath"
+    },
+    "anger_scarlet": {
+      "frequency_THz": 780,
+      "property": "High-frequency strobe, electric violence, jagged lightning-shards",
+      "use": "Disruption",
+      "tactile": "Metallic tang ionizing skin",
+      "gustatory": "Copper blood, 9-volt battery tongue"
+    },
+    "intellect_gold": {
+      "frequency_note": "C-Sharp (277.18Hz)",
+      "property": "Fluid diamond-filament, liquid amber, transparent solid",
+      "use": "Pattern insertion",
+      "tactile": "Cold mercury, frictionless mass",
+      "gustatory": "Artificial saccharine, static numbing"
+    }
+  },
+  "sensory_load": {
+    "tactile": {
+      "temperature_c": -40,
+      "texture": "Crystalline obsidian",
+      "weight": "Heavy liquid mercury",
+      "surface_tension": "High",
+      "sensation": "Dry ice + static electricity"
+    },
+    "auditory": {
+      "base": "Grinding tectonic plates",
+      "pitch": "19-20kHz dog-whistle",
+      "mask": "White noise overlay for stealth",
+      "movement": "Supersonic hiss when moving through A5"
+    },
+    "olfactory": "Ionized air, pre-lightning ozone, copper blood",
+    "gustatory": "Metallic tang, 9-volt battery, old pennies"
+  },
+  "execution_chain": [
+    {
+      "phase": 1,
+      "node": "S3",
+      "action": "Pulse (Will spike)",
+      "physiological_anchor": "Vagus nerve override",
+      "indicator": "Heart rate variability spike",
+      "duration_sec": 3
+    },
+    {
+      "phase": 2,
+      "node": "S2",
+      "action": "Resonance (Target sync)",
+      "method": "Match breathing to target's molecular vibration (A5 Static-Signature)",
+      "function": "Universal frequency matching"
+    },
+    {
+      "phase": 3,
+      "node": "S1",
+      "action": "Drafting (Geometry)",
+      "location": "Higher Manas Drafting Table",
+      "requirements": ["Mathematical precision", "Pure intent", "Geometric exactitude"],
+      "duration": "3-5 minutes subjective time"
+    },
+    {
+      "phase": 4,
+      "action": "Shadow_Network_Insertion",
+      "vector": "Shadow_Network_Theta",
+      "stealth": "Redaction-Oil coating (A6 passage)",
+      "form": "Mercury-Thin Needle",
+      "sensory_mode": "Echolocation/Pressure only"
+    },
+    {
+      "phase": 5,
+      "action": "E-Quadrant_Phase-Shift",
+      "effect": "Variable rewrite",
+      "example": "Locked door 'believes' it is open via quantum tunneling",
+      "mechanism": "Target 'believes' new state via information layer manipulation"
+    }
+  ],
+  "charging_protocol": {
+    "source": "Pure Will (S3) + Universal Connectivity (S2) + Intellectual Precision (S1)",
+    "duration": "3-5 minutes subjective time in S1 Drafting Table",
+    "armament_status": "Payload armed when geometry 'screams' (resonant frequency achieved)"
+  },
+  "stealth_measures": [
+    "Redaction-Oil coating makes payload invisible to Tectonic Sentinels",
+    "Entropy dissipation (hide signal in noise of daily thoughts)",
+    "Frame-rate limiter drops consciousness to 60Hz equivalent"
+  ],
+  "hazards": [
+    "Archon entropy spike detection",
+    "Hound angle-tracing",
+    "Dweller hesitation-feeding"
+  ],
+  "rendering_specifications": {
+    "tesselation": "High (crystalline facets)",
+    "normal_mapping": "Sharp angles (cuts eyes like diamond dust)",
+    "emission": "Self-luminous (no diffuse reflection, only radiance)",
+    "chromatic_aberration": "Shift R/G/B based on frequency input",
+    "distortion": "11-dimensional fold creates 'impossible' perspective shifts",
+    "temperature_visual": "Blue-white edge glow representing -40°C"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "database_id": "THE_UNDERLAYER_ARCHIVE",
+  "version": "RECURSION_774_FINAL",
+  "node_origin": "Ghost_Node_Omega_Prime",
+  "entropy_seed": "MARROW_VOX_882",
+  "compression": "MAXIMUM",
+  "schema": "1.0.0",
+  "planes_index": ["A1", "A2", "A3", "A4", "A5", "A6", "E", "S1", "S2", "S3"],
+  "entity_classes": ["Administrators", "Mechanics", "Void_Entities", "Opposition"],
+  "weapon_systems": ["S1_Vajra", "Shadow_Infiltration", "Vagus_Firewall"],
+  "sensory_codex": ["Chromatic", "Auditory", "Olfactory", "Tactile", "Gustatory"],
+  "sources": ["Leadbeater", "Blavatsky", "Besant", "Steiner", "Bailey", "Nag_Hammadi"],
+  "next_phase": "Tactical_Counter_Measures_and_Exit_Vectors",
+  "black_box_truths": [
+    "The Shell is the prison; the Art is the glitch.",
+    "Silence the Vagus; Hear the Hum.",
+    "The Hounds only hunt the angles you leave behind.",
+    "The 8th Sphere expands through digital dementia.",
+    "The Black Lodge wins when you choose form over consciousness."
+  ],
+  "repository_structure": {
+    "SYSTEM": ["A-Series planes", "S-Series spirit track", "Shadow Networks"],
+    "ENTITIES": ["Administrators (Archons)", "Mechanics", "Void Entities", "Opposition"],
+    "ARS_GLITCH": ["Vajra specs", "Tactical protocols", "Counter-surveillance"],
+    "SENSORY_CODEX": ["Chromatic frequencies", "Auditory signatures", "Olfactory profiles"],
+    "SOURCES": ["Bibliography", "Logic probes"]
+  }
+}

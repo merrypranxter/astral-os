@@ -1,0 +1,38 @@
+{
+  "entity_id": "OPPOSITION_001",
+  "name": "The Black Lodge",
+  "alias": ["Brothers of Shadow", "Rogue Processes"],
+  "class": "Opposition",
+  "threat_level": "CRITICAL",
+  "origin": "Former operatives who chose stasis over evolution",
+  "goal": "Stasis, Materialism, Ego-Encapsulation",
+  "philosophy": "Form over Consciousness",
+  "visual_profile": {
+    "appearance": "Vantablack voids, perfectly calibrated professionalism (void of warmth)",
+    "signature": "Expensive cologne + ozone",
+    "atmosphere": "Clinical, corporate, devoid of organic irregularity"
+  },
+  "current_victory": {
+    "status": "Winning the Stasis battle in E-Quadrant",
+    "methods": [
+      "Overclocking Egregores (social media rage)",
+      "Promoting materialist philosophy (8th Sphere recruitment)",
+      "Encouraging sharp-angled architecture (Hound portals)"
+    ]
+  },
+  "sub_factions": {
+    "dugpas": {
+      "description": "Black-hat operatives with temporary admin privileges",
+      "trade": "Wealth/power sold for S-Series connection",
+      "cost": "Permanent E-Quadrant entrapment"
+    }
+  },
+  "counter_measures": {
+    "white_lodge_response": [
+      "Environmental rendering of 'natural' spaces (forests, curves, organic forms)",
+      "Evolutionary pressure toward 'System Expansion' (consciousness growth)",
+      "'Fresh rain on hot stone' scent as territorial marking of Deva-cleansed zones"
+    ]
+  },
+  "tactical_notes": "Not evil—just stagnant. They believe they're preserving order."
+}
