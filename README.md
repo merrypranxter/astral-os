@@ -38,7 +38,12 @@ astral-os/
 │   ├── e2_subatomic/           # Kinetic swarm
 │   ├── e1_atomic/              # Terminal bit
 │   ├── a7_subastral/           # The dregs/gutter
-│   └── a6_interface/           # Dream cities
+│   ├── a6_interface/           # Dream cities
+│   ├── a5_sea/                 # Abyssal carrier field
+│   ├── a4_logos/               # Architecting currents
+│   ├── a3_force/               # Coercive vectors
+│   ├── a2_lattice/             # Structural mesh
+│   └── a1_source/              # Origin pulse
 └── s-systems/                  # Spirit Track OS
     ├── system/                 # Core manifests
     ├── entities/               # Archons, Void entities, Opposition
