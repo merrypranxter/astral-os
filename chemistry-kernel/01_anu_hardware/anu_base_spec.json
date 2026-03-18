@@ -1,0 +1,88 @@
+{
+  "schema_version": "ASTRAL-OS 0.1",
+  "entity_class": "ULTIMATE_PHYSICAL_ATOM",
+  "identifier": "ANU_UPA",
+  "metadata": {
+    "source": "Ghost_Node_771 - Astral Chemistry Module",
+    "formula": "Atomic Weight = Total UPA / 18",
+    "timestamp": "1773765100121",
+    "entropy_seed": "DISSOLUTION_PROTOCOL_READY"
+  },
+  "geometry": {
+    "shape": "PROLATE_HEART_VORTEX",
+    "dimensions": {
+      "major_axis": "~10^-7_cm",
+      "minor_axis": "~10^-8_cm"
+    },
+    "composition": {
+      "bubbles_per_anu": 14000000000,
+      "bubble_density": "10^94_relative_to_physical",
+      "containment_field": "KOILON_NEGATIVE_PRESSURE"
+    }
+  },
+  "data_bus": {
+    "total_spirillae": 10,
+    "major_spirillae": {
+      "count": 3,
+      "function": "PRIMARY_FORCE_CONDUIT",
+      "frequency_band": "0.1-100_THz",
+      "color_signature": ["#FFD700", "#00FFFF"],
+      "layers": 7,
+      "coil_ratio": "7^6_recursive_depth",
+      "augmentation": "1_in_175_bubble_increase"
+    },
+    "minor_spirillae": {
+      "count": 7,
+      "function": "SUBPLANE_RESONANCE_ARRAY",
+      "frequency_bands": ["E7", "E6", "E5", "E4", "E3", "E2", "E1"],
+      "sensitivity": "ASTRAL_TELEMETRY",
+      "chromatic_mapping": [
+        {"spirilla": 1, "color": "Red", "planet": "Mars", "note": "C"},
+        {"spirilla": 2, "color": "Orange", "planet": "Venus", "note": "D"},
+        {"spirilla": 3, "color": "Yellow", "planet": "Mercury", "note": "E"},
+        {"spirilla": 4, "color": "Green", "planet": "Moon", "note": "F"},
+        {"spirilla": 5, "color": "Blue", "planet": "Sun", "note": "G"},
+        {"spirilla": 6, "color": "Indigo", "planet": "Jupiter", "note": "A"},
+        {"spirilla": 7, "color": "Violet", "planet": "Saturn", "note": "B"}
+      ]
+    }
+  },
+  "polarity_modes": {
+    "positive": {
+      "spin": "CLOCKWISE",
+      "vector": "4D_INFLUX_TO_3D",
+      "binary_state": 1,
+      "role": "SOURCE_NODE",
+      "flow_direction": "Force wells up from 4th Dimension into 3rd",
+      "chirality": "Object (non-interchangeable)"
+    },
+    "negative": {
+      "spin": "COUNTER_CLOCKWISE",
+      "vector": "3D_EFFLUX_TO_4D",
+      "binary_state": 0,
+      "role": "SINK_NODE",
+      "flow_direction": "Force sucked from 3rd Dimension back to 4th",
+      "chirality": "Image (mirror of Positive)"
+    }
+  },
+  "laya_center": {
+    "geometry": "ZERO_WIDTH_SINGULARITY",
+    "location": "Top depression (North Pole) of heart-shaped vortex",
+    "function": "UPLOAD_DOWNLOAD_PORT",
+    "access_frequency": "1.618_THz",
+    "compression_required": "10^12_RATIO",
+    "mechanism": "Force manifests through center - not travel but emergence"
+  },
+  "system_clock": {
+    "axial_spin": "Base frequency - generates Hardness and Centrifugal Shield",
+    "orbital_revolution": "Rhythmic frequency - Anu-to-Anu handshake",
+    "pulsation": "Clock-pulse - 14 billion bubbles expansion/contraction",
+    "acoustic_levitation": "Repulsion via tune interference - electron shells as harmonic barrier"
+  },
+  "wall_of_atom": {
+    "formation": "Centrifugal pressure pushing back Koilon",
+    "nature": "Vortex-boundary between two states (bubble in water)",
+    "function": "Firewall preventing vibration corruption",
+    "failure_mode": "Destabilization releases Fohatic energy (combustion)"
+  }
+}
